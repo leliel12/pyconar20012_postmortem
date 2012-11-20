@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   inkscape:export-filename="/home/juan/direccion.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150"
+   sodipodi:docname="Documento nuevo 1">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-37.142857"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)">
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="40.003113"
+       y="472.09106"
+       id="text2985"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2987"
+         x="40.003113"
+         y="472.09106"
+         style="font-size:45px">Mariano Reingart y/o Romina Castrogiovani</tspan><tspan
+         sodipodi:role="line"
+         x="40.003113"
+         y="528.34106"
+         id="tspan2989"
+         style="font-size:45px">Prof. Castagna 4942</tspan><tspan
+         sodipodi:role="line"
+         x="40.003113"
+         y="584.591"
+         style="font-size:45px"
+         id="tspan3011">Villa Tesei - Partido de Hurlingham</tspan><tspan
+         sodipodi:role="line"
+         x="40.003113"
+         y="640.841"
+         id="tspan2991"
+         style="font-size:45px">Buenos Aires</tspan><tspan
+         sodipodi:role="line"
+         x="40.003113"
+         y="697.091"
+         style="font-size:45px"
+         id="tspan3009" /><tspan
+         sodipodi:role="line"
+         x="40.003113"
+         y="753.341"
+         id="tspan2993"
+         style="font-size:45px">rte:</tspan><tspan
+         sodipodi:role="line"
+         x="40.003113"
+         y="809.591"
+         id="tspan2995"
+         style="font-size:45px">    Juan B. Cabral</tspan><tspan
+         sodipodi:role="line"
+         x="40.003113"
+         y="865.841"
+         id="tspan2997"
+         style="font-size:45px">    Ayacucho 437 1D</tspan><tspan
+         sodipodi:role="line"
+         x="40.003113"
+         y="922.091"
+         id="tspan2999"
+         style="font-size:45px">    Córdoba Córdoba</tspan></text>
+  </g>
+</svg>
