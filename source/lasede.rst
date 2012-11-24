@@ -23,7 +23,7 @@ Urban station es segun su propia pagina de internet:
     posible trabajar o reunirse de otra manera.
 
     Este proyecto fue concebido con el objetivo de convertir a Urban Station en
-    la primera red a nivel mundial para los trabajadores moviles.
+    la primera red a nivel mundial para los trabajadores móviles.
 
     Combina:
 
@@ -37,7 +37,7 @@ Urban station es segun su propia pagina de internet:
     Entrás, elegís donde sentarte, te conectás, te servís lo que quieras del
     coffee break y sólo pagás por el tiempo que te quedás.
 
-Asi luego de varias negociaciones se decidio como sede de sprints workshops y
+Así luego de varias negociaciones se decidió como sede de sprints workshops y
 tutoriales el local Downtown de la franquicia que se encuentra en
 *Maipú 547 - Microcentro - Buenos Aires*
 
@@ -52,19 +52,19 @@ Urban Station nos brindo:
     - 1 auditorio para 60 personas el dia Jueves
     - Los open spaces (lugares comunes de trabajo).
 
-Ademas del café  libre durante todo el dia; para desayunos y meriendas nos
+Además del café  libre durante todo el dia; para desayunos y meriendas nos
 acercaron medialunas muy deliciosas las cuales eran preparadas en el mismo
 local.
 
 El día lunes iniciamos el evento con los sprint de desarrollo y se llenaron las
 2 salas de reuniones. El Martes mientras se realizaba el "sub-evento" de PgDay
-(http://www.pgday.com.ar/buenosaires2012/) continueron los sprint
-con mucho menos concurrencia asi que solo se utilizo el salon mas grande.
-El día miercoles y jueves volvimos a tener un lleno total, sumando el jueves
+(http://www.pgday.com.ar/buenosaires2012/) continuaron los sprint
+con mucho menos concurrencia así que solo se utilizó el salón mas grande.
+Los días miércoles y jueves volvimos a tener un lleno total, sumando el jueves
 el auditorio donde se realizaron los tutoriales.
 
-Lamentablemente en el local tuvimos un corte de luz justo antes de la ultima
-exposicion de los tutoriales (el jueves) por lo cual movimos este solo esta charla
+Lamentablemente en el local tuvimos un corte de luz justo antes de la última
+exposición de los tutoriales (el jueves) por lo cual movimos solo esta charla
 a *Educacion IT* a media cuadra de Urban Station Downtown.
 
 .. figure:: lasede/lasede_urban2.jpg
@@ -73,13 +73,13 @@ a *Educacion IT* a media cuadra de Urban Station Downtown.
 
     Sala de reuniones mayor de Urban Station Downtown
 
-:Lo Bueno: Las aulas, el aire acondicionado, las medialunas, la exelente
-           predisposicion de los dueños y empleados, el cafe y la ubicación.
+:Lo Bueno: Las aulas, el aire acondicionado, las medialunas, la excelente
+           predisposición de los dueños y empleados, el café y la ubicación.
 :Lo Malo: Justo 3 días antes del evento hubo un paro de empleados de
-          recolectores de basura y habia un olor bastante feo en todo
+          recolectores de basura y había un olor bastante feo en todo
           microcentro (esto no es propio de la sede pero hay que tenerlo en
-          cuenta). El corte de luz que afecto a buena parte del microcentro nos
-          retraso en la ultima disertacion. El aire acondicionado del auditorio
+          cuenta). El corte de luz que afectó a buena parte del microcentro nos
+          retraso en la última disertación. El aire acondicionado del auditorio
           no funcionaba.
 :Lo Feo: Tenemos un compañero de PyAr que esta en sillas de rueda y todo el
          local tiene escaleras y no esta preparado para discapacitados.
@@ -90,18 +90,18 @@ Universidad Nacional de Quilmes
 
 :Homepage: http://www.unq.edu.ar/
 
-Los momentos fuertes de la conferencia (Las charlas del viernes y sabado) suelen
-reuninr una cantidad enorme de personas; por lo cual siempre las alternativas de
+Los momentos fuertes de la conferencia (Las charlas del viernes y sábado) suelen
+reunir una cantidad enorme de personas; por lo cual siempre las alternativas de
 PyAr fueron las Universidades.
 
-Este año se la universidad en cuestion fue la UnQui que se encuentra en
+Este año, la universidad en cuestión fue la UnQui que se encuentra en
 *Roque Sáenz Peña 352, Bernal Buenos Aires, Argentina (B1876BXD)*.
 
 Nos brindaron un auditorio grande para mas de 200 personas y 3 aulas para
-realizar los diferentes traks en paralelo.
+realizar los diferentes tracks en paralelo.
 
-La sede cuenta con una muy completa solucion para gente con problemas de
-mobilidad, baños limpios, cafeterias, y algunos locales comerciales alrededor
+La sede cuenta con una muy completa solución para gente con problemas de
+movilidad, baños limpios, cafeterías, y algunos locales comerciales alrededor
 para comprar comida.
 
 .. figure:: lasede/lasede_quilmes.png
@@ -110,37 +110,36 @@ para comprar comida.
 
     Universidad Nacional de Quilmes
 
-Las autoridades del lugar se portaron execelte con la organizacion y no tuvimos
+Las autoridades del lugar se portaron excelente con la organización y no tuvimos
 ni un problema de malentendidos.
 
-En la eleccion de la sede la organizacion del evento (PyAr) se equivoco al
-elegir un lugar fuera de Capital Federal, ya que recibimos varias criticas de
+En la elección de la sede la organización del evento (PyAr) se equivoco al
+elegir un lugar fuera de Capital Federal, ya que recibimos varias críticas de
 Porteños que se niegan a viajar Provincia (por lo discutido esto perece un
-comportamiento comun); esto es algo a tener en cuenta a futuro.
+comportamiento común); esto es algo a tener en cuenta a futuro.
 
-La seleccion de en que aula asignada se dio cada charla fue tomada en base a
-la votaciones de la gente en la pagina del evento (las estrellas). La mayoria
-fue bien distribuida, pero hubo casos donde no funciono y hubo mas de 100 personas
+La asignación de aulas para cada charla fue tomada en base a la votaciones
+de los inscriptos en la página del evento (las estrellas). La mayoría
+fue bien distribuida, pero hubo casos donde no funcionó y hubo mas de 100 personas
 en aulas preparadas para no mas de 30 sin aire acondicionado.
 
-La distribucion de las aulas en la facultad fue otro punto problematico, hay que
-recordarles a las sedes que si estan dispuestos a organizar un evento de la
-magnitud de PyConAr deben estar dispuestos a poner las aulas a comodidad del mismo.
-Las aulas, en definitiva, estuvieron extremadamente dispersas e incomodas para
+La distribución de las aulas en la facultad fue otro punto problemático, hay que
+recordarles a las sedes que si están dispuestos a organizar un evento de la
+magnitud de PyConAr deben estar dispuestos a poner las aulas a comodidad de las jornadas.
+Las aulas, en definitiva, estuvieron extremadamente dispersas e incómodas para
 ubicarlas por los asistentes, acompañado a esto durante algunas horas se
-escuchaban ruidos molestos de contrucciones mientras los disertantes hacian lo
-suyo. Cabe aclarar que nos explicaron de problemas de logista de aulas que tubieron
-pero aun asi debe quedar registrado ya que con mas de 8 meses de planificacion
+escuchaban ruidos molestos de construcciones mientras los disertantes hacían lo
+suyo. Cabe aclarar que nos explicaron de problemas de logísta de aulas que tuvieron
+pero aun así debe quedar registrado ya que con mas de 8 meses de planificación
 esto se pudo haber evitado sin problemas.
 
-El peor punto de la conferencia es un problema que tuvimos con una asociacion
-politica perteneciente a la UnQui (identificados con el color violeta), la cual
-nos acuso de manera violenta de ocupar su espacio de militancia y nos acuso de
-que somos una agrupacion politica y no cientificos y programadores.
-El incidente no paso a mayores, por intervencion de
-autoridades de la universidad. Se me informo que esta persona que nos vino
-a agredir ya tiene quejas por que ha atacado a golpes a tanto hombres como
-mujeres.
+El peor punto de la conferencia es un problema que tuvimos con una agrupación
+política perteneciente a la UnQui (identificados con el color violeta), la cual
+nos acusó de manera violenta de ocupar su espacio de militancia, aún cuando el
+fin  de la conferencia era académico y científico y no político.
+El incidente no paso a mayores, por intervención de autoridades de la universidad.
+Se me informo que esta persona que nos vino a agredir ya tiene quejas
+por que ha atacado a golpes a tanto hombres como mujeres.
 
 .. figure:: lasede/grupal.jpg
     :scale: 65 %
@@ -149,13 +148,13 @@ mujeres.
     Foto grupal al cierre del evento en el auditorio de la UnQui
 
 
-Por ultimo sufrimos la sutraccion de una netbook de un asistente, y de un banner
+Por último sufrimos la sustracción de una netbook de un asistente, y de un banner
 de la conferencia. Es recomendable que los siguientes eventos tengan un
 guardarropa.
 
-:Lo Bueno: La sede es un lugar calmado y comodo a pocos minutos de Bs. As. El
-           Auditorio es comodo y fresco.
-:Lo Malo: La distribuccion de las aulas. La falta de coordinacion de los
-          organizadores con otras areas (como contrucciones).
-:Lo Feo: La violencia politica que nos demostro que existe dentro de la
+:Lo Bueno: La sede es un lugar calmado y cómodo a pocos minutos de Bs. As. El
+           Auditorio es confortable y fresco.
+:Lo Malo: La distribución de las aulas. La falta de coordinación de los
+          organizadores con otras áreas (como construcciones).
+:Lo Feo: La violencia política que demostró que existe dentro de la
          universidad.
