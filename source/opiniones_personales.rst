@@ -2,8 +2,8 @@
 Opiniones Personales
 ====================
 
-A continuacion se presentan opiniones personales de varios de los speakes
-internacionales del evento:
+A continuación se presentan opiniones personales de varios de los speakers
+internacionales del evento.
 
 Massimo Di Pierro
 -----------------
