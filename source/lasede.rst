@@ -66,7 +66,7 @@ Lamentablemente en el local tuvimos un corte de luz justo antes de la ultima
 exposicion de los tutoriales (el jueves) por lo cual movimos este solo esta charla
 a *Educacion IT* a media cuadra de Urban Station Downtown.
 
-..figure:: images/lasede_urban2.jpg
+.. figure:: images/lasede_urban2.jpg
     :scale: 75 %
 
     Sala de reuniones mayor de Urban Station Downtown
@@ -103,7 +103,7 @@ mobilidad, baños limpios, cafeterias, y algunos locales comerciales alrededor
 para comprar comida.
 
 .. figure:: images/lasede_quilmes.png
-    :scale: 75 %
+    :scale: 200 %
 
     Universidad Nacional de Quilmes
 
@@ -139,10 +139,11 @@ autoridades de la universidad. Se me informo que esta persona que nos vino
 a agredir ya tiene quejas por que ha atacado a golpes a tanto hombres como
 mujeres.
 
-..figure:: images/grupal.jpg
-    :scale: 75 %
+.. figure:: images/grupal.jpg
+    :scale: 100 %
 
     Foto grupal al cierre del evento en el auditorio de la UnQui
+
 
 Por ultimo sufrimos la sutraccion de una netbook de un asistente, y de un banner
 de la conferencia. Es recomendable que los siguientes eventos tengan un
