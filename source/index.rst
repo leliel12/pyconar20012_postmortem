@@ -18,7 +18,7 @@ Contenido:
     sponsors.rst
     lasede.rst
     opiniones_personales.rst
-    problemas_puntuales.rst
+    cosas_puntuales.rst
 
 
 Indices and tables
