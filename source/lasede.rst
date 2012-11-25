@@ -153,8 +153,11 @@ de la conferencia. Es recomendable que los siguientes eventos tengan un
 guardarropa.
 
 :Lo Bueno: La sede es un lugar calmado y cómodo a pocos minutos de Bs. As. El
-           Auditorio es confortable y fresco.
+           Auditorio es confortable y fresco. Los accesos para los
+           discapacitados. Los baños (para ser una universidad pública)
 :Lo Malo: La distribución de las aulas. La falta de coordinación de los
-          organizadores con otras áreas (como construcciones).
-:Lo Feo: La violencia política que demostró que existe dentro de la
-         universidad.
+          organizadores con otras áreas (como construcciones). La excesiva
+          cantidad de afiches de contenido político.
+:Lo Feo: La violencia política que se demostró que existe dentro de la
+         universidad. El robo de una de una netbook de una miembro del staff
+         del evento.

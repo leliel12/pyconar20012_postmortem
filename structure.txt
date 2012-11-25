@@ -5,7 +5,7 @@
 - Agenda - Juan BC
 - Seleccion de charlas - Damian
 - Track Cientifico - Celia
-- La Sede - Juan Cabral
+* La Sede - Juan Cabral
 - Coordinacion de Speakers Internacionales - Gaby Arebalo
 - Proveedores y Merchandising - Romi
 - Sponsors, cuestiones administrativas y contables - Nadia
