@@ -15,8 +15,10 @@ Contenido:
 .. toctree::
     :maxdepth: 2
 
+    sponsors.rst
     lasede.rst
     opiniones_personales.rst
+    problemas_puntuales.rst
 
 
 Indices and tables
