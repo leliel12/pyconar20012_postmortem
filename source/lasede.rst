@@ -157,7 +157,6 @@ guardarropa.
            discapacitados. Los baños (para ser una universidad pública)
 :Lo Malo: La distribución de las aulas. La falta de coordinación de los
           organizadores con otras áreas (como construcciones). La excesiva
-          cantidad de afiches de contenido político.
-:Lo Feo: La violencia política que se demostró que existe dentro de la
-         universidad. El robo de una de una netbook de una miembro del staff
-         del evento.
+          cantidad de afiches dificultaban la vision de nuestros afiches.
+:Lo Feo: La prepotencia politica de una agrupación de la UNQui.
+         El robo de una de una netbook de una miembro del staff del evento.
