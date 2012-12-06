@@ -17,6 +17,7 @@ Contenido:
 
     sponsors.rst
     lasede.rst
+    frente_ondemand.rst
     opiniones_personales.rst
     cosas_puntuales.rst
 
