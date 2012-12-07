@@ -6,8 +6,24 @@ En el frente de Batalla: Actividades On-The-Fly
 :email: fisadev@gmail.com
 
 
-Se incluye  en el análisis: lightning talks, sorteos, stands y
-concursos de sponsors.
+En el evento sucedieron varias actividades, que si bien a sabiendas que que
+iban a suceder, por su naturaleza deberian ser planificadas y ejecutadas en
+el momento de la conferencia.
+
+Estas actividades eran:
+
+**Ligtning Talks**: Esta actividad se realizan ambos dias
+de la conferencia propiamente dicha (vier 16 y sab 17) luego de las
+charlas programadas. Consisten en una presentación corta a elección del
+disertante (y no necesariamente de Python), no mayor a cinco minutos. A
+diferencia de las Charlas Programadas, no hay proceso de aprobación; los
+oradores simplemente se anotan durante la PyCon en un papel disponible en la
+registración. Este período rápido  orienta a los oradores a enfocarse en
+lo esencial y proporciona a la audiencia unos diez temas durante una hora.
+
+**Sorteos:**
+
+**Stands y concursos de sponsors:**
 
 :Lo Bueno:
     - Lightning talks: estuvo bien avisar en las aulas entre charla y
