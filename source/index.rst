@@ -20,7 +20,7 @@ Contenido:
     adm_and_fin.rst
     frente_ondemand.rst
     opiniones_personales.rst
-    cosas_puntuales.rst
+    lacomunidad.rst
 
 
 Indices and tables
