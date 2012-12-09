@@ -21,6 +21,14 @@ oradores simplemente se anotan durante la PyCon en un papel disponible en la
 registración. Este período rápido  orienta a los oradores a enfocarse en
 lo esencial y proporciona a la audiencia unos diez temas durante una hora.
 
+
+.. figure:: frente_ondemand/vie_ltalks.JPG
+    :scale: 20 %
+    :align: center
+
+    Charlas relámpago del 16/11/2012
+
+
 **Sorteos:**
 
 **Stands y concursos de sponsors:**
@@ -62,3 +70,8 @@ lo esencial y proporciona a la audiencia unos diez temas durante una hora.
       al momento del armado stand ya que no se preciso en que momento se
       propondria a los asistentes a acercarse a su area de promocion.
 
+.. figure:: frente_ondemand/spon.JPG
+    :scale: 20 %
+    :align: center
+
+    Hall de Sponsors en un momento tranquilo
