@@ -17,6 +17,7 @@ Contenido:
 
     sponsors.rst
     lasede.rst
+    adm_and_fin.rst
     frente_ondemand.rst
     opiniones_personales.rst
     cosas_puntuales.rst
