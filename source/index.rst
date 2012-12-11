@@ -19,6 +19,7 @@ Contenido:
     lasede.rst
     spkint.rst
     adm_and_fin.rst
+    becas.rst
     frente_ondemand.rst
     opiniones_personales.rst
     lacomunidad.rst
