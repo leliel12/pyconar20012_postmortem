@@ -2,8 +2,8 @@
 En el frente de Batalla: Actividades On-The-Fly
 ===============================================
 
-:author: Juan Pedro Fisanotti
-:email: fisadev@gmail.com
+:Autor: Juan Pedro Fisanotti
+:Email: fisadev@gmail.com
 
 
 En el evento sucedieron varias actividades, que si bien a sabiendas que

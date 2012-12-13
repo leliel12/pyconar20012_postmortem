@@ -2,8 +2,8 @@
 Becas
 =====
 
-:author: Facundo Batista
-:email: facundobatista@gmail.com
+:Autor: Facundo Batista
+:Email: facundobatista@gmail.com
 
 Para la conferencia, y como es costumbre en otros eventos de Python
 Argentina, se ofrecieron becas para que algunos asistentes pudieran
@@ -31,8 +31,8 @@ hospedaje.
 Resumen
 -------
 
-:author: Juan B Cabral.
-:email: jbc.develo@gmail.com
+:Autor: Juan B Cabral.
+:Email: jbc.develo@gmail.com
 
 Se hace un resumen desde el punto de vista de la coordinación general con el
 manejo de fondos de las becas.

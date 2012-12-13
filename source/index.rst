@@ -16,6 +16,7 @@ Contenido:
     :maxdepth: 2
 
     sponsors.rst
+    seleccion_charlas.rst
     lasede.rst
     spkint.rst
     adm_and_fin.rst

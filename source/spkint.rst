@@ -3,7 +3,7 @@ Coordinación de speakers internacionales
 ========================================
 
 :author: Dra. Gabriela Arevalo
-:email: gabriela.b.arevalo@gmail.com
+:Email: gabriela.b.arevalo@gmail.com
 
 
 La coordinación de speakers internacionales puede evaluarse desde diferentes

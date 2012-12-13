@@ -2,8 +2,8 @@
 Las Sedes
 =========
 
-:author: Juan B Cabral.
-:email: jbc.develop@gmail.com
+:Autor: Juan B Cabral.
+:Email: jbc.develop@gmail.com
 
 
 Este año PyConAr 2012 se realizo durante toda una semana (2012/11/12 al

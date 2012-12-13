@@ -1,8 +1,8 @@
 Trabajando con la comunidad
 ===========================
 
-:author: Juan B Cabral.
-:email: jbc.develop@gmail.com
+:Autor: Juan B Cabral.
+:Email: jbc.develop@gmail.com
 
 
 La comunidad
