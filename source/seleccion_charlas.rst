@@ -77,9 +77,9 @@ Resumen
 :Lo Feo:
     - En cuanto a diversidad se refiere, la proporción de actividades
       desarrolladas por mujeres sigue estando muy por debajo de lo óptimo.
-      (N.del.E.: Las mujeres formaron principalmente el frente de batalla en
-       las actividades on-demand de la conferencia como ser la registración
-       donde la participacion masculina fue lo faltante)
+      (*N.del.E.: Las mujeres formaron principalmente el frente de batalla en*
+      *las actividades on-demand de la conferencia, como la registración,*
+      *donde la participacion masculina fue lo faltante*)
     - Las pautas para elegir en el momento de la discusión conjunta deberían
       explicitarse con mayor énfasis antes de la realización de las misma, para
       que los nuevos revisores, que pueden desconocer las características de la
