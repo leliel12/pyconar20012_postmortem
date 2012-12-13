@@ -98,3 +98,12 @@ mucho tiempo, pero que concluyó de muy buena forma. Es cierto que aún existen
 algunos aspectos para mejorar, pero, en términos generales, podemos estar
 orgullosos del trabajo realizado y del resultado generado.
 
+
+Estadísticas
+------------
+
+- 9 sprints.
+- 2 eventos en paralelo.
+- 10 tutoriales y workshops.
+- 51 charlas programadas.
+
