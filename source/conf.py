@@ -228,7 +228,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   ('index', 'PyConArgentina2012-PostMortem', u'PyCon Argentina 2012 - PostMortem Documentation',
-   u'Juan B Cabral', 'PyConArgentina2012-PostMortem', 'One line description of project.',
+   u'PyConAr 2012 Staff', 'PyConArgentina2012-PostMortem', 'PostMortem Pycon Argentina 2012',
    'Miscellaneous'),
 ]
 

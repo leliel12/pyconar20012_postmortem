@@ -28,6 +28,13 @@ Cabe mencionar que los coordinadores generales, Mariano Reingart y
 Juan B. Cabral, participaron de dichas reuniones, haciendo las veces de
 evaluadores adicionales.
 
+.. figure:: seleccion_charlas/portada.jpg
+    :scale: 20 %
+    :align: center
+
+    Portada del programa de charlas programadas, tutoriales y workshops
+    del evento
+
 
 Desarrollo
 ----------
@@ -55,6 +62,36 @@ Asimismo, se sugirió a los autores de algunas charlas a presentarlas en otros
 formatos como tutoriales o posters.
 
 
+Conclusión
+----------
+
+El proceso de selección se realizó con éxito, generando una agenda de gran
+calidad.
+
+Se realizó un trabajo extenso y productivo, que involucro a muchas personas y
+mucho tiempo, pero que concluyó de muy buena forma. Es cierto que aún existen
+algunos aspectos para mejorar, pero, en términos generales, podemos estar
+orgullosos del trabajo realizado y del resultado generado.
+
+
+Estadísticas
+------------
+
+Las actividades resultantes fueron:
+
+- 9 sprints.
+- 2 eventos en paralelo.
+- 10 tutoriales y workshops.
+- 51 charlas programadas.
+- 3 actividades suspendidas.
+
+.. figure:: seleccion_charlas/schedule.png
+    :scale: 40 %
+    :align: center
+
+    Agenda resultante de la selección de charlas.
+
+
 Resumen
 -------
 
@@ -73,6 +110,8 @@ Resumen
       escuetas o inexistentes.
     - Al dársele un “peso” importante a los votos de la comunidad, el puntaje
       obtenido por las revisiones tuvo menos injerencia.
+    - Lamentablemente por fuerza mayor 3 actividades fueron suspendidas por la
+      ausencia de sus disertantes (internacionales).
 
 :Lo Feo:
     - En cuanto a diversidad se refiere, la proporción de actividades
@@ -85,25 +124,3 @@ Resumen
       que los nuevos revisores, que pueden desconocer las características de la
       comunidad en este aspecto particular, tengan una idea cierta de cómo se
       realiza la ponderación.
-
-
-Conclusión
-----------
-
-El proceso de selección se realizó con éxito, generando una agenda de gran
-calidad.
-
-Se realizó un trabajo extenso y productivo, que involucro a muchas personas y
-mucho tiempo, pero que concluyó de muy buena forma. Es cierto que aún existen
-algunos aspectos para mejorar, pero, en términos generales, podemos estar
-orgullosos del trabajo realizado y del resultado generado.
-
-
-Estadísticas
-------------
-
-- 9 sprints.
-- 2 eventos en paralelo.
-- 10 tutoriales y workshops.
-- 51 charlas programadas.
-
