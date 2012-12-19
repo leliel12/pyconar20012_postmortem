@@ -4,7 +4,7 @@
 - Objetivos iniciales y alcanzados - Juan Cabral
 - Agenda - Juan BC
 * Seleccion de charlas - Damian
-- Track Cientifico - Celia
+* Track Cientifico - Celia
 * La Sede - Juan Cabral
 * Coordinacion de Speakers Internacionales - Gaby Arebalo
 - Proveedores y Merchandising - Romi
@@ -12,6 +12,6 @@
 * Becas - Facu
 - En el frente de Batalla: Registracion - Orfi
 * En el frente de Batalla: Actividades On-The-Fly - Fisa y Lipe
-- Opiniones Personales - Speakers internacionales
+* Opiniones Personales - Speakers internacionales
 - La comunidad. Juan BC
-- Cierre - Juan Cabral
+* Cierre - Juan Cabral
