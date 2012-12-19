@@ -1,5 +1,5 @@
 ================
-Track Cientifico
+Track Científico
 ================
 
 :Autor: Celia Cintas
@@ -24,6 +24,12 @@ Se pueden enumerar los siguientes:
     - Mostrar librerías para el desarrollador de aplicaciones científicas.
     - Mostrar la combinación de la educación, ingeniería y ciencia con la
       computación a través de Python.
+
+.. figure:: ciencia/aima.jpg
+    :align: center
+
+    Inteligencia Artificial con aima-python, un recurso poco conocid
+
 
 
 Charlas elegidas
@@ -75,7 +81,6 @@ y otras puedan encontrar un lugar en la comunidad
     - 1 caso de estudio.
 
 
-
 Asistentes
 ==========
 
@@ -87,6 +92,11 @@ sus negocios.
 
 En la estadísticas, un media de 32 personas indicaron que estaban interesados en
 asistir a las diferentes charlas del track (la desviación fue 14.12).
+
+.. figure:: ciencia/myhdl.jpg
+    :align: center
+
+    MyHDL, de python al silicio.
 
 
 Resumen
@@ -111,5 +121,8 @@ Resumen
       o al programador de herramientas científicas. En esta PyCon, por otro
       lado, no pasó. Ya que la mayoría eran casos de aplicación. Esto debería
       ser tomado en cuenta si se realizan talleres.
+:Lo Feo:
+    Lo único realmente feo de este track es competir por los asistentes
+    con charlas mucho mas masivas de traks generales.
 
 
