@@ -2,8 +2,8 @@
 Aspectos financieros y administrativos de Pycon
 ===============================================
 
-:author: Lic. Cra. Nadia Luczywo
-:email: nluczywo@gmail.com
+:Autor: Lic. Cra. Nadia Luczywo
+:Email: nluczywo@gmail.com
 
 La cuarta conferencia en lenguaje de programación Python, tuvo impactos en
 distintos ámbitos y entre ellos ahora pasamos a desmenuzar la cuestión

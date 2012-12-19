@@ -24,6 +24,7 @@ Contenido:
     frente_ondemand.rst
     opiniones_personales.rst
     lacomunidad.rst
+    cierre.rst
 
 
 Indices and tables
