@@ -29,6 +29,9 @@ Se pueden enumerar los siguientes:
 Charlas eligidas
 ----------------
 
+Link al listado completo de charlas (incluido el track científico) con sus
+respectivas descripciones: http://ar.pycon.org/2012/activity/accepted
+
 Se incluyerón casos de estudio y herramientas; la mayoría los pilares
 fundamentales dentro del ámbito científico con Python.
 
@@ -36,9 +39,11 @@ Se puede enumerar:
     - Parelelización (para obtener velocidad en el cálculo)
     - Visualización que otorgue mayor información al científico.
 
+Quizas sería interesante agregar más temas de astronomia,
+ya que paquetes de python crecen en gran cantidad en esta clase de tópicos.
 
-Listado de charlas y posters [#]_
----------------------------------
+Probablemente otras ciencias como antropologia, la ciencias sociales, economia
+y otras puedan encontrar un lugar en la comunidad
 
 **Charlas:**
 
@@ -71,21 +76,40 @@ Listado de charlas y posters [#]_
 
 
 
-Que tipos de asistentes fueron?
-No solo el tipo, quizas lo más sorprendente fue la cantidad de personas, uno esta normalemente inducido a pensar que el ambiente científico es acotado y reducido.
-Este Eje demostro lo contrario. Los asistentes variaban desde varios tópicos académicos/cientificos a emprendedores industriales.
+Asistentes
+==========
 
-Que temas faltaron?
-Quizas sería interesante agregar más temas de astronomia, los paquetes de python crecen en gran cantidad en esta clase de tópicos. % quizas antropologia :D
+Lo más sorprendente de los asistentes fue su cantidad. Uno esta normalemente
+inducido a pensar que el ambiente científico es acotado y reducido. Esta track
+demostró lo contrario. Los asistentes variaban desde tópicos
+académicos/cientificos a emprendedores industriales que utilizaban ciencia para
+sus negocios.
+
+En la estadísticas, un media de 32 personas indicaton que estaban interesados en
+asistir a las diferentes charlas del track (la desviacion fue 14.12).
 
 
-Lo bueno, Lo malo.
-    - Lo bueno: Desde el comienzo, dar un eje científico fue excelente, era lo que le faltaba a la pycon.
-          Hacer una charla de Introducción para nivelar fue otra buena idea. Dar casos de uso aplicando python en la vida científica y también herramientas.
-          Los disertantes Nacionales e Internacionales excelentes.
-        - Lo malo: Quizas en los dias de sprints se podrían haber hecho un par de talleres de herramientas básicas para el ninja científico.
-       Y los días de charlas solo sean sobre casos de aplicación y herramientas tirando hacia avanzado/específico.
-       Algo que pasa en Charlas de Aplicaciones Científicas, es a quien va dirigido, al científico que
-       va a ser sus propios scripts/parches o al programador de herramientas científicas.
-       En esta PyCon no paso ya que la mayoría eran casos de aplicación, pero en si se hacen talleres esta bueno tenerlo en cuenta.
-         - Lo feo: Naada estuvo barbara :)
+Resumen
+-------
+
+:Lo Bueno:
+    - Desde el comienzo, dar un eje científico fue excelente, era algo que le
+      faltaba a PyCon Argentina.
+    - Hacer una charla de Introducción para nivelar fue otra buena idea.
+    - Dar casos de uso aplicando python en la vida científica.
+    - Se demostro una creciente comunidad de PyAr cientifica (N.del.E.: al
+      momento de la creación de este documento ya fue fundada Sci-Pyar y ya
+      se planea su primer evento para mayo del 2013)
+:Lo Malo:
+    - Quizas en los dias de sprints se podrían haber hecho un par de talleres
+      de herramientas básicas para científicos.
+    - Asumiendo un dia introductorio separado; los días de charlas solo sean
+      sobre casos de aplicación y herramientas mas orientadas hacia lo avanzado
+      y específico.
+    - Algo que sucede en charlas de aplicaciones científicas, es que va
+      dirigido, al científico que desarrollaa scripts/parches
+      o al programador de herramientas científicas. En esta PyCon, por otro
+      lado, no pasó. Ya que la mayoría eran casos de aplicación. Esto debería
+      ser tomado en cuenta si se realizan talleres.
+
+

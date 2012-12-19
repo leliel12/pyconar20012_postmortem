@@ -8,6 +8,7 @@ PyCon Argentina 2012 - Post-Mortem
 
 
 .. image:: index/logo.png
+    :align: center
 
 
 Contenido:
@@ -17,6 +18,7 @@ Contenido:
 
     sponsors.rst
     seleccion_charlas.rst
+    ciencia.rst
     lasede.rst
     spkint.rst
     adm_and_fin.rst
