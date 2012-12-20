@@ -105,6 +105,14 @@ En esta etapa los principales aspectos fueron:
 
         Regalos para disertantes almacenados desde jun/2012 hasta nov/210
 
+.. only:: latex
+
+    .. figure:: adm_and_fin/disert_reg.jpg
+        :scale: 75 %
+        :align: center
+
+        Regalos para disertantes almacenados desde jun/2012 hasta nov/210
+
 
 :Lo Bueno: Fue la anticipación de gastos para combatir la inflación, y la
            posibilidad de  contar con horario flexible de algunos miembros del
