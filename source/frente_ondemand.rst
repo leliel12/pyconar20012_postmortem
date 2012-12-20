@@ -38,6 +38,14 @@ haber completado el tiempo disponible.
 
         Charlas relámpago del 16/11/2012
 
+.. only:: latex
+
+    .. figure:: frente_ondemand/vie_ltalks.JPG
+        :scale: 70 %
+        :align: center
+
+        Charlas relámpago del 16/11/2012
+
 
 Sorteos
 -------
@@ -72,6 +80,15 @@ de los sorteos que organizaban Onapsis y Mozilla.
 
     .. figure:: frente_ondemand/spon.JPG
         :scale: 20 %
+        :align: center
+
+        Hall de Sponsors en un momento tranquilo
+
+
+.. only:: latex
+
+    .. figure:: frente_ondemand/spon.JPG
+        :scale: 70 %
         :align: center
 
         Hall de Sponsors en un momento tranquilo
