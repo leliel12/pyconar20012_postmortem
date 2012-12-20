@@ -25,12 +25,13 @@ Se pueden enumerar los siguientes:
     - Mostrar la combinación de la educación, ingeniería y ciencia con la
       computación a través de Python.
 
-.. only:: html
 
-    .. figure:: ciencia/aima.jpg
-        :align: center
 
-        Inteligencia Artificial con aima-python, un recurso poco conocid
+.. figure:: ciencia/aima.jpg
+    :align: center
+    :scale: 60 %
+
+    Inteligencia Artificial con aima-python, un recurso poco conocido
 
 
 
@@ -95,12 +96,11 @@ sus negocios.
 En la estadísticas, un media de 32 personas indicaron que estaban interesados en
 asistir a las diferentes charlas del track (la desviación fue 14.12).
 
-.. only:: html
+.. figure:: ciencia/myhdl.jpg
+    :align: center
+    :scale: 60 %
 
-    .. figure:: ciencia/myhdl.jpg
-        :align: center
-
-        MyHDL, de python al silicio.
+    MyHDL, de python al silicio.
 
 
 Resumen
