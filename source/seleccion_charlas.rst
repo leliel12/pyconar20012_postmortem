@@ -2,7 +2,7 @@
 Selección de charlas y tutoriales
 =================================
 
-:Autor: Damián Avila.
+:Autor: Damián Ávila.
 :Email: damianavila@gmail.com
 
 Introducción
