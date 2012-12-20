@@ -10,6 +10,7 @@ PyCon Argentina 2012 - Post-Mortem
 .. image:: index/logo.png
     :align: center
 
+`Descargar PDF <_static/PyConArgentina2012-PostMortem.pdf>`_
 
 Contenido:
 
