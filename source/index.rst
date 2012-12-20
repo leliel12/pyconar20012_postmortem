@@ -16,6 +16,7 @@ Contenido:
 .. toctree::
     :maxdepth: 2
 
+    about.rst
     sponsors.rst
     seleccion_charlas.rst
     ciencia.rst
