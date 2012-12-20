@@ -22,6 +22,7 @@ Contenido:
     ciencia.rst
     lasede.rst
     spkint.rst
+    proveedores.rst
     adm_and_fin.rst
     becas.rst
     registracion_y_asistencia.rst
