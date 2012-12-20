@@ -30,12 +30,13 @@ el evento.
 La participación fue muy satisfactoria, debiendo incluso rechazar charlas por
 haber completado el tiempo disponible.
 
+.. only:: html
 
-.. figure:: frente_ondemand/vie_ltalks.JPG
-    :scale: 20 %
-    :align: center
+    .. figure:: frente_ondemand/vie_ltalks.JPG
+        :scale: 20 %
+        :align: center
 
-    Charlas relámpago del 16/11/2012
+        Charlas relámpago del 16/11/2012
 
 
 Sorteos
@@ -67,11 +68,13 @@ La participación fue satisfactoria, ya que un porcentaje importante de
 asistentes se acercó a conocer lo que las empresas presentaban, y a participar
 de los sorteos que organizaban Onapsis y Mozilla.
 
-.. figure:: frente_ondemand/spon.JPG
-    :scale: 20 %
-    :align: center
+.. only:: html
 
-    Hall de Sponsors en un momento tranquilo
+    .. figure:: frente_ondemand/spon.JPG
+        :scale: 20 %
+        :align: center
+
+        Hall de Sponsors en un momento tranquilo
 
 
 Resumen

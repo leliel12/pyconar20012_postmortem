@@ -28,12 +28,14 @@ Cabe mencionar que los coordinadores generales, Mariano Reingart y
 Juan B. Cabral, participaron de dichas reuniones, haciendo las veces de
 evaluadores adicionales.
 
-.. figure:: seleccion_charlas/portada.jpg
-    :scale: 20 %
-    :align: center
+.. only:: html
 
-    Portada del programa de charlas programadas, tutoriales y workshops
-    del evento
+    .. figure:: seleccion_charlas/portada.jpg
+        :scale: 20 %
+        :align: center
+
+        Portada del programa de charlas programadas, tutoriales y workshops
+        del evento
 
 
 Desarrollo

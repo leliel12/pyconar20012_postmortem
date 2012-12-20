@@ -12,7 +12,6 @@ Massimo Di Pierro
 :twitter: `@mdipierro <https://twitter.com/@mdipierro>`_
 
 .. image:: opiniones_personales/massimo.jpeg
-    :scale: 100 %
     :align: center
 
 I really enjoyed the conference. I think the organizers did an excellent job at
@@ -44,7 +43,6 @@ Craig Kerstiens
 :twitter: `@craigkerstiens <https://twitter.com/craigkerstiens>`_
 
 .. image:: opiniones_personales/craig.png
-    :scale: 100 %
     :align: center
 
 The variety of talks on both content and on english/spanish was nice (the

@@ -41,11 +41,13 @@ Así luego de varias negociaciones se decidió como sede de sprints workshops y
 tutoriales el local Downtown de la franquicia que se encuentra en
 *Maipú 547 - Microcentro - Buenos Aires*
 
-.. figure:: lasede/lasede_urban.png
-    :scale: 75 %
-    :align: center
+.. only:: html
 
-    Ubicación de Sede Downtown de Urban Station.
+    .. figure:: lasede/lasede_urban.png
+        :scale: 75 %
+        :align: center
+
+        Ubicación de Sede Downtown de Urban Station.
 
 Urban Station nos brindo:
     - 2 salas de reunion para 14 personas
@@ -67,11 +69,14 @@ Lamentablemente en el local tuvimos un corte de luz justo antes de la última
 exposición de los tutoriales (el jueves) por lo cual movimos solo esta charla
 a *Educacion IT* a media cuadra de Urban Station Downtown.
 
-.. figure:: lasede/lasede_urban2.jpg
-    :scale: 20 %
-    :align: center
+.. only:: html
 
-    Sala de reuniones mayor de Urban Station Downtown
+    .. figure:: lasede/lasede_urban2.jpg
+        :scale: 20 %
+        :align: center
+
+        Sala de reuniones mayor de Urban Station Downtown
+
 
 :Lo Bueno: Las aulas, el aire acondicionado, las medialunas, la excelente
            predisposición de los dueños y empleados, el café y la ubicación.
@@ -104,11 +109,13 @@ La sede cuenta con una muy completa solución para gente con problemas de
 movilidad, baños limpios, cafeterías, y algunos locales comerciales alrededor
 para comprar comida.
 
-.. figure:: lasede/lasede_quilmes.png
-    :scale: 100 %
-    :align: center
+.. only:: html
 
-    Universidad Nacional de Quilmes
+    .. figure:: lasede/lasede_quilmes.png
+        :scale: 100 %
+        :align: center
+
+        Universidad Nacional de Quilmes
 
 Las autoridades del lugar se portaron excelente con la organización y no tuvimos
 ni un problema de malentendidos.
@@ -141,11 +148,13 @@ El incidente no paso a mayores, por intervención de autoridades de la universid
 Se me informo que esta persona que nos vino a agredir ya tiene quejas
 por que ha atacado a golpes a tanto hombres como mujeres.
 
-.. figure:: lasede/grupal.jpg
-    :scale: 65 %
-    :align: center
+.. only:: html
 
-    Foto grupal al cierre del evento en el auditorio de la UnQui
+    .. figure:: lasede/grupal.jpg
+        :scale: 65 %
+        :align: center
+
+        Foto grupal al cierre del evento en el auditorio de la UnQui
 
 
 Por último sufrimos la sustracción de una netbook de un asistente, y de un banner

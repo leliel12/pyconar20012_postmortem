@@ -97,12 +97,13 @@ En esta etapa los principales aspectos fueron:
       ayudó a cumplir con muchas cuestiones operativas necesarias para la
       conferencia.
 
+.. only:: html
 
-.. figure:: adm_and_fin/disert_reg.jpg
-    :scale: 25 %
-    :align: center
+    .. figure:: adm_and_fin/disert_reg.jpg
+        :scale: 25 %
+        :align: center
 
-    Regalos para disertantes almacenados desde jun/2012 hasta nov/210
+        Regalos para disertantes almacenados desde jun/2012 hasta nov/210
 
 
 :Lo Bueno: Fue la anticipación de gastos para combatir la inflación, y la

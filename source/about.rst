@@ -1,14 +1,15 @@
-===========================================
-Sobre Pycon Argentina 2012 y este documento
-===========================================
+=============
+Acerca de ...
+=============
 
 .. figure:: about/cc.png
     :align: center
-    :scale: 50 %
+    :scale: 30 %
 
     Pycon Argentina 2012 - Post-Mortem por PyAr se
     encuentra bajo una licencia
     `Creative Commons Atribución-SinDerivadas 3.0 Unported <http://creativecommons.org/licenses/by-nd/3.0/deed.es>`_.
+
 
 Pagina web del evento: http://ar.pycon.org/2012
 

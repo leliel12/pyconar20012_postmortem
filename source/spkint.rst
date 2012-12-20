@@ -32,12 +32,13 @@ Dado que algunos disertantes optaron por cambiarse a un hotel 5 estrellas
 (y por consejos de los mismos) en futuros eventos seria muy recomendable ofrecer
 dos alternativas de alojamiento.
 
+.. only:: html
 
-.. figure:: spkint/prince.jpg
-    :scale: 80 %
-    :align: center
+    .. figure:: spkint/prince.jpg
+        :scale: 80 %
+        :align: center
 
-    Hotel oficial de la conferencia (Hotel Prince)
+        Hotel oficial de la conferencia (Hotel Prince)
 
 
 Coordinador de speakers internacionales
@@ -89,11 +90,13 @@ Se planifico un día de campo en el Tigre para el 18/nov/2012 que incluia un
 paseo en lancha y un asado. Por motivos climáticos finalmente fue suspendido
 y se opto por improvisar un asado en la casa de uno de los coordinadores.
 
-.. figure:: spkint/asado.JPG
-    :scale: 20 %
-    :align: center
+.. only:: html
 
-    Asado con los speakers internacionales el dia
+    .. figure:: spkint/asado.JPG
+        :scale: 20 %
+        :align: center
+
+        Asado con los speakers internacionales el dia 18 de nov de 2012
 
 
 :Lo Bueno: Todo lo propuesto con los disertantes internacionales se logro.
