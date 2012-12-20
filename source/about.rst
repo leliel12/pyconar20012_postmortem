@@ -2,9 +2,6 @@
 Sobre Pycon Argentina 2012 y este documento
 ===========================================
 
-Licencia
---------
-
 .. figure:: about/cc.png
     :align: center
     :scale: 50 %
@@ -15,8 +12,10 @@ Licencia
 
 Pagina web del evento: http://ar.pycon.org/2012
 
-Staff del Evento
-----------------
+
+----
+
+**Staff del Evento**
 
 PyCon Argentina es organizada por un grupo de voluntarios dedicados y con
 experiencia en la comunidad internacional de Python. El núcleo del comité de
