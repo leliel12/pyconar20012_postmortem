@@ -24,6 +24,7 @@ Contenido:
     spkint.rst
     adm_and_fin.rst
     becas.rst
+    registracion_y_asistencia.rst
     frente_ondemand.rst
     opiniones_personales.rst
     lacomunidad.rst

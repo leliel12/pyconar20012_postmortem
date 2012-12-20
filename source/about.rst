@@ -13,7 +13,7 @@ Licencia
     encuentra bajo una licencia
     `Creative Commons Atribución-SinDerivadas 3.0 Unported <http://creativecommons.org/licenses/by-nd/3.0/deed.es>`_.
 
-Pagina web del evento:
+Pagina web del evento: http://ar.pycon.org/2012
 
 Staff del Evento
 ----------------
@@ -47,7 +47,7 @@ organización consiste en:
     - Maria Orfilia Schleppi <orfi.sch@gmail.com>
     - Nadia Ayelen Luczywo <nluczywo@gmail.com>
     - Romina Castrogiovani <r.castrogiovani@gmail.com>
-    - Juan Martín Báscolo
+    - Juan Martín Báscolo <martin.bascolo@gmail.com>
     - Juan Pedro Fisanotti <fisadev@gmail.com>
 - **Editor del Post-Mortem:** Juan B. Cabral <jbc.develop@gmail.com>
 - **Redactores del Post-Mortem:**
