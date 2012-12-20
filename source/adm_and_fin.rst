@@ -1,6 +1,6 @@
-===============================================
-Aspectos financieros y administrativos de Pycon
-===============================================
+==============================================================
+Aspectos financieros y administrativos de PyCon Argentina 2012
+==============================================================
 
 :Autor: Lic. Cra. Nadia Luczywo
 :Email: nluczywo@gmail.com

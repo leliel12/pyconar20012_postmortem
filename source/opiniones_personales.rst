@@ -1,5 +1,5 @@
 ====================
-Opiniones Personales
+Opiniones personales
 ====================
 
 A continuación se presentan opiniones personales de varios de los speakers
