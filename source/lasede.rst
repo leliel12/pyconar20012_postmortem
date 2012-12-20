@@ -41,13 +41,12 @@ Así luego de varias negociaciones se decidió como sede de sprints workshops y
 tutoriales el local Downtown de la franquicia que se encuentra en
 *Maipú 547 - Microcentro - Buenos Aires*
 
-.. only:: html
+.. figure:: lasede/lasede_urban.png
+    :scale: 75 %
+    :align: center
 
-    .. figure:: lasede/lasede_urban.png
-        :scale: 75 %
-        :align: center
+    Ubicación de Sede Downtown de Urban Station.
 
-        Ubicación de Sede Downtown de Urban Station.
 
 Urban Station nos brindo:
     - 2 salas de reunion para 14 personas
@@ -72,7 +71,15 @@ a *Educacion IT* a media cuadra de Urban Station Downtown.
 .. only:: html
 
     .. figure:: lasede/lasede_urban2.jpg
-        :scale: 20 %
+        :scale: 15 %
+        :align: center
+
+        Sala de reuniones mayor de Urban Station Downtown
+
+.. only:: latex
+
+    .. figure:: lasede/lasede_urban2.jpg
+        :scale: 100 %
         :align: center
 
         Sala de reuniones mayor de Urban Station Downtown
@@ -109,13 +116,12 @@ La sede cuenta con una muy completa solución para gente con problemas de
 movilidad, baños limpios, cafeterías, y algunos locales comerciales alrededor
 para comprar comida.
 
-.. only:: html
+.. figure:: lasede/lasede_quilmes.png
+    :scale: 100 %
+    :align: center
 
-    .. figure:: lasede/lasede_quilmes.png
-        :scale: 100 %
-        :align: center
+    Universidad Nacional de Quilmes
 
-        Universidad Nacional de Quilmes
 
 Las autoridades del lugar se portaron excelente con la organización y no tuvimos
 ni un problema de malentendidos.
@@ -151,7 +157,15 @@ por que ha atacado a golpes a tanto hombres como mujeres.
 .. only:: html
 
     .. figure:: lasede/grupal.jpg
-        :scale: 65 %
+        :scale: 40 %
+        :align: center
+
+        Foto grupal al cierre del evento en el auditorio de la UnQui
+
+.. only:: latex
+
+    .. figure:: lasede/grupal.jpg
+        :scale: 75 %
         :align: center
 
         Foto grupal al cierre del evento en el auditorio de la UnQui
