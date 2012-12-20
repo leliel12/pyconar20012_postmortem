@@ -6,11 +6,18 @@
 PyCon Argentina 2012 - Post-Mortem
 ==================================
 
+.. only:: html
 
-.. image:: index/logo.png
-    :align: center
+    .. figure:: index/logo.png
+        :align: center
 
-`Descargar PDF <_static/PyConArgentina2012-PostMortem.pdf>`_
+        `Descargar PDF <_static/PyConArgentina2012-PostMortem.pdf>`_
+
+.. only:: latex
+
+    .. image:: index/logo.png
+        :align: center
+
 
 Contenido:
 
@@ -28,8 +35,9 @@ Contenido:
     becas.rst
     registracion_y_asistencia.rst
     frente_ondemand.rst
-    opiniones_personales.rst
     lacomunidad.rst
+    opiniones_personales.rst
+    opiniones_sponsors.rst
     cierre.rst
 
 

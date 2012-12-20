@@ -37,6 +37,15 @@ evaluadores adicionales.
         Portada del programa de charlas programadas, tutoriales y workshops
         del evento
 
+.. only:: latex
+
+    .. figure:: seleccion_charlas/portada.jpg
+        :scale: 50 %
+        :align: center
+
+        Portada del programa de charlas programadas, tutoriales y workshops
+        del evento
+
 
 Desarrollo
 ----------
@@ -87,11 +96,21 @@ Las actividades resultantes fueron:
 - 51 charlas programadas.
 - 3 actividades suspendidas.
 
-.. figure:: seleccion_charlas/schedule.png
-    :scale: 40 %
-    :align: center
+.. only:: html
 
-    Agenda resultante de la selección de charlas.
+    .. figure:: seleccion_charlas/schedule.png
+        :scale: 40 %
+        :align: center
+
+        Agenda resultante de la selección de charlas.
+
+.. only:: latex
+
+    .. figure:: seleccion_charlas/schedule.png
+        :scale: 100 %
+        :align: center
+
+        Agenda resultante de la selección de charlas.
 
 
 Resumen

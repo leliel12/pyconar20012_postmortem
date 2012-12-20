@@ -22,3 +22,4 @@ comunidad mundial de Python y de software en general.
 
 .. image:: cierre/coordinadores.jpg
     :align: center
+    :scale: 75 %

@@ -3,12 +3,15 @@ Proveedores
 ===========
 
 La búsqueda de proveedores arrancó en el mes de Marzo, la intención era tener al
-menos 2 o 3 presupuestos para cada compra e ir teniendo una idea de los costos que se debían
-afrontar.
-Para la elección, no en todos los casos era optar por el presupuesto más económico, también
-se evaluó el hecho de que sea un proveedor conocido, teniendo antecedente del producto y
-cumplimiento; el hecho de que tuviera envío sin costo extra también nos favorecía, ya que no se
-contaba con gente ni tiempo para hacer los retiros.
+menos 2 o 3 presupuestos para cada compra e ir teniendo una idea de los costos
+que se debían afrontar.
+
+Para la elección, no en todos los casos era optar por el presupuesto más
+económico, también se evaluó el hecho de que sea un proveedor conocido,
+teniendo antecedente del producto y cumplimiento;
+el hecho de que tuviera envío sin costo extra también nos favorecía, ya que no
+se contaba con gente ni tiempo para hacer los retiros.
+
 A partir de este punto, teniendo ya cierta idea de los gastos necesarios y los gastos
 superfluos se comenzó a trabajar en un cashflow que nos ayudaría durante todo el proceso a
 mantener los ingresos vs egresos en equilibrio. Los montos presupuestados fueron tomados con
@@ -65,13 +68,17 @@ si algún artículo se agotaba. Por suerte y por sorpresa, algunos pagaron el bo
 simple hecho de contribuir a la causa y no retiraron su remera, con lo cual todo alcanzó para
 todos!
 
-Resumiendo:
 
-Lo bueno: A pesar de que parecía difícil poder ajustarse al presupuesto inicial, se logró
-sin necesidad de hacer sacrificios, el secreto, un cashflow bien hecho y actualizado a todo
-momento, considerando aumentos inflacionarios y distinguiendo entre efectivo corriente y
-no corriente, dejado este último destinado a gatos no prioritarios.
-• Lo malo: Los que opinan y no aportan, se ha perdido tiempo por escuchar opiniones en
+Resumiendo
+----------
+
+:Lo Bueno: A pesar de que parecía difícil poder ajustarse al presupuesto
+           inicial, se logró sin necesidad de hacer sacrificios, el secreto, un
+           cashflow bien hecho y actualizado a todo momento, considerando
+           aumentos inflacionarios y distinguiendo entre efectivo corriente y
+           no corriente, dejado este último destinado a gatos no prioritarios.
+
+:Lo malo: Los que opinan y no aportan, se ha perdido tiempo por escuchar opiniones en
 disconformidad con la elección de algún producto o servicio, se les otorga tiempo para
 que presenten alguna propuesta distinta, solo por el hecho de que nadie sienta que no es
 tomado en cuenta, porque la realidad es que detrás de cada elección se hace un estudio de
@@ -84,5 +91,3 @@ proveedores, lugares ... el no me gusta caprichoso no sirve mas que para retrasa
 procesos.
 • Lo feo: Depender de una organización externa para trámites oficiales y manejo de fondos,
 resultó sumamente impráctico.
-
-•
