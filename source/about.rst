@@ -29,8 +29,9 @@ organización consiste en:
 - **Coordinador de Charlas:** Alejandro J. Cura <alecu@protocultura.net>
 - **Coordinador de Becas y Donaciones:** Facundo Batista
   <facundobatista@gmail.com>
-- **Coordinadores Sede:** Sebastián Bassi <sbassi@gmail.com> y
-  Alberto Paparelli <albertopaparelli@gmail.com>
+- **Coordinadores Sede:**
+    - Sebastián Bassi <sbassi@gmail.com>
+    - Alberto Paparelli <albertopaparelli@gmail.com>
 - **Responsable de Speakers Internacionales:** Gabriela Arevalo
   <gabriela.b.arevalo@gmail.com>
 - **Webmaster:** Alan Etkin <spametki@gmail.com>
