@@ -87,6 +87,7 @@ de la propia comunidad y futuros organizadores:
 :Lo Feo: La falta de un objetivo claro de que es lo que debe o no hacer PyAr
          con cuestiones que hieren la sensibilidad de la naturaleza anarquica
          como ser:
+
             - Jerarquias en eventos.
             - Comunicacion con empresas.
             - Cuestiones no-hackers (impuestos, administracion, finanzas, etc)

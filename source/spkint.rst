@@ -10,7 +10,7 @@ La coordinación de speakers internacionales puede evaluarse desde diferentes
 perspectivas:
 
 
-Contacto previo a la conferencia.
+Contacto previo a la conferencia
 --------------------------------
 
 Aunque en la edición del PyConAr 2012 la comunicación fue fluida, deberíamos

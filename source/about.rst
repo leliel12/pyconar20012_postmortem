@@ -63,7 +63,6 @@ organización consiste en:
     - Gabriela Arevalo <gabriela.b.arevalo@gmail.com>
     - Maria Orfilia Schleppi <orfi.sch@gmail.com>
     - Marcelo Fidel Fernandez <marcelo.fidel.fernandez@gmail.com>
-    - Varios otros especificados en la parte de opiniones personales.
 
 Nuestro reconocimiento para los voluntarios y empresas que participan del
 evento colaborando con la organización:

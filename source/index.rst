@@ -10,16 +10,11 @@ PyCon Argentina 2012 - Post-Mortem
 
     .. figure:: index/logo.png
         :align: center
+        :scale: 60 %
 
         `Descargar PDF <_static/PyConArgentina2012-PostMortem.pdf>`_
 
-.. only:: latex
-
-    .. image:: index/logo.png
-        :align: center
-
-
-Contenido:
+    Contenido:
 
 .. toctree::
     :maxdepth: 2
@@ -42,10 +37,12 @@ Contenido:
     cierre.rst
 
 
-Indices and tables
-==================
+.. only:: html
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+    Indices and tables
+    ==================
+
+    * :ref:`genindex`
+    * :ref:`modindex`
+    * :ref:`search`
 
