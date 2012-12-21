@@ -26,6 +26,7 @@ Contenido:
 
     about.rst
     sponsors.rst
+    objetivos.rst
     seleccion_charlas.rst
     ciencia.rst
     lasede.rst

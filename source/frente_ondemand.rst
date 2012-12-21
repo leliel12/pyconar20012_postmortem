@@ -134,4 +134,3 @@ Resumen
     - Stands y concursos sponsors: Explicar mejor la operatoria a los sponsors
       al momento del armado stand ya que no se preciso en que momento se
       propondría a los asistentes a acercarse a su area de promoción.
-

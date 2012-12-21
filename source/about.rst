@@ -78,4 +78,3 @@ evento colaborando con la organización:
     - Posta Productora Audiovisual
     - Pablo M. Mana <pablo.m.mana@gmail.com>
 - **Infraestructura y Redes:** Universidad Nacional de Quilmes
-

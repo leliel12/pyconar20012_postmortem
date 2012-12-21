@@ -1,8 +1,6 @@
-========
-Sponsors
-========
-
-PyCon Argentina 2012, pudo realizarse gracias a:
+===================================================
+PyCon Argentina 2012, pudo realizarse gracias a...
+===================================================
 
 .. only:: html
 
@@ -14,4 +12,4 @@ PyCon Argentina 2012, pudo realizarse gracias a:
 
     .. image:: sponsors/sponsors.png
         :align: center
-        :scale: 65 %
+        :scale: 70 %

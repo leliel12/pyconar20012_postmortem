@@ -128,5 +128,3 @@ Resumen
 :Lo Feo:
     Lo único realmente feo de este track es competir por los asistentes
     con charlas mucho mas masivas de traks generales.
-
-
