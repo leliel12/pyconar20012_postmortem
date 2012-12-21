@@ -1,29 +1,45 @@
-=========================
-Registración y asistencia
-=========================
+=====================
+Registro y asistencia
+=====================
 
 
-Proceso de registración
------------------------
+Proceso de registro
+-------------------
 
 La registración consistía en: pedir el nombre y apellido de la
 persona, al encontrarla en la lista se le indicaba un número para retirar
 la credencial y al mismo tiempo se hacía entrega de una bolsa con merchandising
 de los diferentes sponsors del evento. Si correspondía también podía retirar
-su remera de la conferencia y demas productos adquiridos con el bono
+su remera de la conferencia y demás productos adquiridos con el bono
 contribución
 
 Una posibilidad era que la persona no esté previamente registrada por el sitio
-web de la conferencia, por lo cual no apareceria en la lista antes mencionada;
-en estos casos se procedia anotantod manualmente el nombre, apellido y mail.
+web de la conferencia, por lo cual no aparecería en la lista antes mencionada;
+en estos casos se procedía anotantdo manualmente el nombre, apellido y mail.
 Luego se hacia entrega de una credencial en blanco para que pueda escribir su
 nombre y la bolsa con merchandising.
+
+.. only:: html
+
+    .. figure:: registracion_y_asistencia/reg.jpg
+        :align: center
+        :scale: 20 %
+
+        Stand de registro
+
+.. only:: latex
+
+    .. figure:: registracion_y_asistencia/reg.jpg
+        :align: center
+        :scale: 60 %
+
+        Stand de registro
 
 
 Responsables
 ------------
 
-En momentos de alta asistencia al stand de registración se necesitaron hasta
+En momentos de alta asistencia al stand de registro se necesitaron hasta
 cinco personas para las tareas de:
 
 - Buscar nombre del asistente.
@@ -32,17 +48,18 @@ cinco personas para las tareas de:
 - Entregar remera.
 - Armar bolsas de merchandising.
 
-Por otro laso, en las horas de menor concurrencia nos turnabamos entre varios,
-procurando que siempre una o dos personas se esten presente en el stand.
+Por otro laso, en las horas de menor concurrencia nos turnábamos entre varios,
+procurando que siempre una o dos personas se estén presente en la
+registración.
 
 
 Lugares
 -------
 
-El “puesto” de registración el dia viernes, permaneció durante toda la mañana y
+El “puesto” de registro el día viernes, permaneció durante toda la mañana y
 gran parte de la tarde en la entrada de la facultad, para lograr así que los
 asistentes se orienten rápidamente. Pero a causa de una discusión con los
-miembros de una agrupación política sobre el lugar físico que ocupabamos, que
+miembros de una agrupación política sobre el lugar físico que ocupábamos, que
 reclamaban como propio, nos vimos obligados a mover las mesas de
 registración al final del pasillo donde se encontraban los stands de los
 sponsors.
@@ -94,3 +111,49 @@ Resumen
            registración.
          - Algunas personas (mas bien del ámbito universitario) sólo se
            registraban para llevarse merchandising.
+
+
+Algunos gráficos
+----------------
+
+.. only:: html
+
+    .. figure:: registracion_y_asistencia/gr1.png
+        :scale: 75 %
+
+        Cantidad de inscriptos por año
+
+    ----
+
+    .. figure:: registracion_y_asistencia/gr2.png
+        :scale: 75 %
+
+        Cantidad de asistentes en el año 2012
+
+
+    ----
+
+    .. figure:: registracion_y_asistencia/gr3.png
+        :scale: 75 %
+
+        Cantidad de personas que colaboraron con el bono contribución
+
+
+.. only:: latex
+
+    .. figure:: registracion_y_asistencia/gr1.png
+        :scale: 75 %
+
+        Cantidad de inscriptos por año
+
+
+    .. figure:: registracion_y_asistencia/gr2.png
+        :scale: 75 %
+
+        Cantidad de asistentes en el año 2012
+
+
+    .. figure:: registracion_y_asistencia/gr3.png
+        :scale: 75 %
+
+        Cantidad de personas que colaboraron con el bono contribución
