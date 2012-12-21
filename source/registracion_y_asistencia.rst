@@ -2,6 +2,9 @@
 Registro y asistencia
 =====================
 
+:Autor: Maria Orfilia Schleppi
+:Email: orfi.sch@gmail.com
+
 
 Proceso de registro
 -------------------
