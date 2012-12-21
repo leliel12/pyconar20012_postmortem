@@ -38,6 +38,11 @@ esperado, no por cuestiones de tiempo, no por improvisación, sino por eventos
 que iban mas allá del alcance de la organización (se explicará este tema mas
 adelante).
 
+.. figure:: proveedores/remera.png
+    :align: center
+
+    Remera part edel bono contribución
+
 
 Fondos extranjeros
 ------------------
@@ -80,6 +85,22 @@ la ceverceria Quilmes solo mantie presupuestos por 1 semana.
 Lo perjudicial de esto, mas allá de la preocupación, fue que nos encontramos
 corriendo durante la semana de conferencia, retirando cosas que podríamos haber
 tenido y descuidando otros problemas.
+
+.. only:: html
+
+    .. figure:: proveedores/cerv.jpg
+        :align: center
+        :scale: 30 %
+
+        Parque de la Cervecería Quilmes (donde se realizó la fiesta de cierre)
+
+.. only:: latex
+
+    .. figure:: proveedores/cerv.jpg
+        :align: center
+        :scale: 80 %
+
+        Parque de la Cervecería Quilmes (donde se realizó la fiesta de cierre)
 
 
 Bono contribución: Merchandising y eventos sociales
