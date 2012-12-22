@@ -30,6 +30,8 @@ Objetivos cumplidos
     - Se conformo una comunida de Sci-PyAr de ciencias.
     - Toda decisión en primera medida se daba a evaluación de la comunidad
       luego de eso recién se tomaba una decisión interna.
+    - Se dio mas participacion en PyConAr a las empresas, las cuales siempre
+      tuvieron dificultades para acercarse a ambientes "sofware libre-like"
 
 
 Objetivos Incumplidos

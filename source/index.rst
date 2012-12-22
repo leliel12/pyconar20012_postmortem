@@ -34,6 +34,7 @@ PyCon Argentina 2012 - Post-Mortem
     lacomunidad.rst
     opiniones_personales.rst
     opiniones_sponsors.rst
+    opiniones_asistentes.rst
     cierre.rst
 
 

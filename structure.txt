@@ -1,7 +1,7 @@
 * Portada - Juan Cabral
 * Sponsors - Juan Cabral
 - Palabras del Coordinador - Juan Cabral
-- Objetivos iniciales y alcanzados - Juan Cabral
+* Objetivos iniciales y alcanzados - Juan Cabral
 - Agenda - Juan BC
 * Seleccion de charlas - Damian
 * Track Cientifico - Celia
