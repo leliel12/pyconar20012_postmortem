@@ -21,6 +21,7 @@ PyCon Argentina 2012 - Post-Mortem
 
     about.rst
     sponsors.rst
+    palabras_coordinador.rst
     objetivos.rst
     seleccion_charlas.rst
     ciencia.rst
