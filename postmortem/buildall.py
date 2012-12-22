@@ -16,7 +16,7 @@ import os
 import shutil
 
 #===============================================================================
-# LOGIC
+# CONSTANTS
 #===============================================================================
 
 PATH = os.path.abspath(os.path.dirname(__file__))
@@ -27,6 +27,11 @@ TO = os.path.join(PATH, "source", "_static")
 
 MAKE = "make.bat {}" if os.name == "nt" else "make {}"
 
+#===============================================================================
+# LOGIC
+#===============================================================================
+
+os.chdir(PATH)
 
 os.system(MAKE.format("clean"))
 os.system(MAKE.format("latexpdf"))
@@ -34,4 +39,5 @@ os.system(MAKE.format("latexpdf"))
 shutil.copy(PDF, TO)
 
 os.system(MAKE.format("html"))
+
 
