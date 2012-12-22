@@ -18,7 +18,7 @@ contribución
 
 Una posibilidad era que la persona no esté previamente registrada por el sitio
 web de la conferencia, por lo cual no aparecería en la lista antes mencionada;
-en estos casos se procedía anotantdo manualmente el nombre, apellido y mail.
+en estos casos se procedía anotando manualmente el nombre, apellido y mail.
 Luego se hacia entrega de una credencial en blanco para que pueda escribir su
 nombre y la bolsa con merchandising.
 
@@ -42,7 +42,7 @@ nombre y la bolsa con merchandising.
 Responsables
 ------------
 
-En momentos de alta asistencia al stand de registro se necesitaron hasta
+En los momentos de mayor asistencia en el stand de registro se necesitaron hasta
 cinco personas para las tareas de:
 
 - Buscar nombre del asistente.
@@ -51,7 +51,7 @@ cinco personas para las tareas de:
 - Entregar remera.
 - Armar bolsas de merchandising.
 
-Por otro laso, en las horas de menor concurrencia nos turnábamos entre varios,
+Por otro lado, en las horas de menor concurrencia nos turnábamos entre varios,
 procurando que siempre una o dos personas se estén presente en la
 registración.
 
@@ -98,7 +98,7 @@ Resumen
             bono contribución, cuando no los encontrábamos en la mesa de
             registración, les indicabamos que se dirijan a la otra mesa y los
             haciamos ir y venir hasta que definitivamente optamos por escribir
-            sus nombres en un papel y trata de encontrarlos más tarde (la
+            sus nombres en un papel y tratar de encontrarlos más tarde (la
             mayoría los encontramos, solo era cuestión de tiempo)
           - No había suficiente cantidad de credenciales en blanco y se
             tuvieron que utilizar repetidas o de personas que sabíamos que no
