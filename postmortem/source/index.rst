@@ -39,6 +39,8 @@ PyCon Argentina 2012 - Post-Mortem
     opiniones_asistentes.rst
     cierre.rst
 
+    referencias.rst
+
 
 .. only:: html
 
