@@ -48,7 +48,7 @@ copyright = u'2012, PyAr'
 # built documents.
 #
 # The short X.Y version.
-version = datetime.datetime.now().strftime("%y.%m.%H%M")
+version = datetime.datetime.now().strftime("%y.%m.%H%M.") + "private"
 # The full version, including alpha/beta/rc tags.
 release = version
 
