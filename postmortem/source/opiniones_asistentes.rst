@@ -2,6 +2,9 @@
 Opiniones asistentes
 ====================
 
+:Editor: Marcelo Fidel Fernandez
+:Email: marcelo.fidel.fernandez@gmail.com
+
 A continuación se recopilan comentarios de asistentes realizado en una encuesta
 web entre los días 20 y 23 de diciembre de 2012.
 
@@ -99,9 +102,9 @@ Opiniones
             verificar balance) si queremos elevar el nivel de nuestra
             conferencia, esto es importante.
           - Faltó un servicio de comida para el mediodía durante la conferencia.
-          - Quizás estaría bueno, paulatinamente, incluir más charlas sobre 
-            cosas que no sean Python, por supuesto sin perder el enfoque en 
-            Python. Puede estar bueno balancear más ello. Por ejemplo tener 
+          - Quizás estaría bueno, paulatinamente, incluir más charlas sobre
+            cosas que no sean Python, por supuesto sin perder el enfoque en
+            Python. Puede estar bueno balancear más ello. Por ejemplo tener
             charlas de otras tecnologías ""competidoras"", Javascript?
             (N.del.E: hubo una charla de Javascript para programadores Python),
             traer expertos en esos temas y armar discusiones, ver dónde la
