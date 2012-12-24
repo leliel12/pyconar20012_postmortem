@@ -132,6 +132,8 @@ Evaluación en General de la Conferencia
 ---------------------------------------
 
 - Votos: 18
+- Puntaje mínimo: 1
+- Puntaje máximo: 5
 - Promedio: 4,4444444444
 - Desviación: 0,6156987635
 
@@ -140,5 +142,7 @@ Evaluación de la Organización del Evento
 ----------------------------------------
 
 - Votos: 18
+- Puntaje mínimo: 1
+- Puntaje máximo: 5
 - Promedio: 4,2777777778
 - Desviación: 0,6691131581
