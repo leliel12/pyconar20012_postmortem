@@ -35,6 +35,7 @@ organización consiste en:
 - **Responsable de Speakers Internacionales:** Gabriela Arevalo
   <gabriela.b.arevalo@gmail.com>
 - **Webmaster:** Alan Etkin <spametki@gmail.com>
+- **Coordinador en UNQui:** Leonardo Marina <leonardo@unq.edu.ar>
 - **Revisores de Charlas:**
     - Hector Sanchez <hectorsanchez.mov@gmail.com>
     - Sebastián Bassi <sbassi@gmail.com>
