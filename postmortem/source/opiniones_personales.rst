@@ -1,6 +1,6 @@
-====================
-Opiniones personales
-====================
+================================================
+Opiniones personales de speakers internacionales
+================================================
 
 A continuación se presentan opiniones personales de varios de los speakers
 internacionales del evento.
