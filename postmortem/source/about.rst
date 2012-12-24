@@ -4,15 +4,15 @@ Acerca de ...
 
 .. figure:: about/cc.png
     :align: center
-    :scale: 30 %
+    :scale: 20 %
 
     Pycon Argentina 2012 - Post-Mortem por PyAr se
     encuentra bajo una licencia
     `Creative Commons Atribución-SinDerivadas 3.0 Unported <http://creativecommons.org/licenses/by-nd/3.0/deed.es>`_.
 
 
-Pagina web del evento: http://ar.pycon.org/2012
-
+- Pagina web del evento: http://ar.pycon.org/2012
+- Fuentes de este documento: https://bitbucket.org/leliel12/pyconar20012_postmortem
 
 ----
 
