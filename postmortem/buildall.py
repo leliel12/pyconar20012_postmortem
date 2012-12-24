@@ -38,6 +38,6 @@ os.system(MAKE.format("latexpdf"))
 
 shutil.copy(PDF, TO)
 
-os.system(MAKE.format("html"))
+os.system('hg commit -m "add pdf at {}" -u leliel12'.format(datetime.datetime.now()))
 
 
