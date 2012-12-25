@@ -39,6 +39,6 @@ os.system(MAKE.format("latexpdf"))
 
 shutil.copy(PDF, TO)
 
-os.system('hg commit -m "add pdf at {}" -u leliel12'.format(datetime.datetime.now()))
+os.system('hg commit -m "add pdf at {}" -u prepush.py'.format(datetime.datetime.now()))
 
 
