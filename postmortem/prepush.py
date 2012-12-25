@@ -32,13 +32,19 @@ MAKE = "make.bat {}" if os.name == "nt" else "make {}"
 # LOGIC
 #===============================================================================
 
+def ex(cmd):
+    print(">> Start '{}'...".format(cmd))
+    os.system(cmd)
+    print(">> Finishec '{}'".format(cmd))
+
 os.chdir(PATH)
 
-os.system(MAKE.format("clean"))
-os.system(MAKE.format("latexpdf"))
+ex(MAKE.format("clean"))
+ex(MAKE.format("latexpdf"))
 
 shutil.copy(PDF, TO)
+print(">> Copied '{}' -> '{}'".format(PDF, TO))
 
-os.system('hg commit -m "add pdf at {}" -u prepush.py'.format(datetime.datetime.now()))
+ex('hg commit -m "add pdf at {}" -u prepush.py'.format(datetime.datetime.now()))
 
 
