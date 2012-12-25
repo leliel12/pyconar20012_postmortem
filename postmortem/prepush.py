@@ -35,7 +35,7 @@ MAKE = "make.bat {}" if os.name == "nt" else "make {}"
 def ex(cmd):
     print(">> Start '{}'...".format(cmd))
     os.system(cmd)
-    print(">> Finishec '{}'".format(cmd))
+    print(">> Finish '{}'".format(cmd))
 
 os.chdir(PATH)
 
