@@ -45,6 +45,7 @@ ex(MAKE.format("latexpdf"))
 shutil.copy(PDF, TO)
 print(">> Copied '{}' -> '{}'".format(PDF, TO))
 
+ex("hg add {}".format(TO))
 ex('hg commit -m "add pdf at {}" -u prepush.py'.format(datetime.datetime.now()))
 
 
