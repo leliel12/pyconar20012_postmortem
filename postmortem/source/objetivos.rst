@@ -1,12 +1,44 @@
-=========
-Objetivos
-=========
+===================
+Resumen y objetivos
+===================
 
 :Autor: Juan B Cabral.
 :Email: jbc.develop@gmail.com
 
+
 Este capítulo es una suerte de abstract y listado de los objetivos y metas
 cumplidos e incumplidos por la conferencia.
+
+
+Sobre PyCon Argentina 2012
+--------------------------
+
+PyCon es una conferencia comunitaria organizada y llevada a cabo por
+voluntarios de la comunidad Python (PyAr), dura varios días donde se darán
+pequeños cursos y charlas relacionadas a este lenguaje que de a poco va a
+haciendo su lugar entre los desarrolladores. Tenemos como intención hacer un
+espacio en donde cualquier persona interesada pueda acercarse para preguntar,
+aprender y experimentar con estas herramientas.
+
+PyCon Argentina 2012 fue la 4ta edición de PyCon para la republica Argentina y
+la mas grande de habla hispana. Nacio de una propuesta presentada por Mariano
+Reingart en la wiki de PyAr a comienzos del 2012
+(http://python.org.ar/pyar/LlamadoasedePyconar2012/PyConAr2012BsAs
+(`PDF <_static/prop-pycon2012.pdf>`_)) y secundada por Juan B Cabral como
+co-coordinador general.
+
+Alrededor de esto se conformo un equipo para empezar a trabajar en las
+necesidades básicas del evento (tesorero, secretario, coordinadores de seede y
+webmaster) El cual luego de la informacion recaudada en PyConUs 2012 () se
+se pusieron a trabajar dando forma a la conferencia.
+
+Uno de los primeros puntos a atacar fue el de speakers internacionales el cual
+suele ser el mas costoso, el mas largo de tramitar, el que mas dinero cuesta y,
+en contra partida, el que mas prestigio da a la conf. En
+
+
+.. figure:: objetivos/intspk.png
+    :align: center
 
 
 Objetivos cumplidos
@@ -41,3 +73,6 @@ Objetivos Incumplidos
       pudo hacer la sesión debidamente.
     - No se supero la histórica barrera del 60 % de asistentes con respecto a
       la cantidad de inscriptos.
+    - No se pudo coordinar speakers internacionales con los otros eventos
+      latinoamericanos.
+
