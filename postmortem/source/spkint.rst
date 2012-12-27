@@ -19,6 +19,9 @@ movimiento relacionado a los speakers internacionales, y evitar los
 intermediarios que eviten perdida de información, como por ejemplo información
 de aeropuertos o cambios de dinero.
 
+.. figure:: spkint/intspk.png
+    :align: center
+
 
 Reserva de Hoteles
 ------------------

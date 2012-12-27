@@ -10,8 +10,8 @@ Este capítulo es una suerte de abstract y listado de los objetivos y metas
 cumplidos e incumplidos por la conferencia.
 
 
-Sobre PyCon Argentina 2012
---------------------------
+Que es Pycon Argentina 2012
+----------------------------
 
 PyCon es una conferencia comunitaria organizada y llevada a cabo por
 voluntarios de la comunidad Python (PyAr), dura varios días donde se darán
@@ -28,17 +28,20 @@ Reingart en la wiki de PyAr a comienzos del 2012
 co-coordinador general.
 
 Alrededor de esto se conformo un equipo para empezar a trabajar en las
-necesidades básicas del evento (tesorero, secretario, coordinadores de seede y
-webmaster) El cual luego de la informacion recaudada en PyConUs 2012 () se
-se pusieron a trabajar dando forma a la conferencia.
+necesidades básicas del evento (tesorero, secretario, coordinadores de sede y
+webmaster); el cual luego de la información recaudada en PyConUs 2012 () se
+se pusieron a trabajar dando forma a la conferencia con el objetivo de comenzar
+a evolucionar PyConAr de una reunión comunitaria de dos días a un evento de una
+semana de alto contenido profesional y técnico.
 
-Uno de los primeros puntos a atacar fue el de speakers internacionales el cual
-suele ser el mas costoso, el mas largo de tramitar, el que mas dinero cuesta y,
-en contra partida, el que mas prestigio da a la conf. En
+Para esto se hizo énfasis en:
 
-
-.. figure:: objetivos/intspk.png
-    :align: center
+    - Inclusión de las empresas.
+    - Fomentar sprint de proyectos locales e internacionales.
+    - Dedicar un día entero a temas introductorios.
+    - Incluir otras comunidades open source.
+    - Aumentar el presupuesto general.
+    - Tratar de incluir al ambiente científico y académico.
 
 
 Objetivos cumplidos
