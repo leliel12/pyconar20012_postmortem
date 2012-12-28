@@ -25,7 +25,7 @@ import sys, os, datetime
 
 # Add any Sphinx extension module names here, as strings. They can be extensions
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
-extensions = ['sphinx.ext.viewcode', 'sphinx.ext.autodoc','rst2pdf.pdfbuilder']
+extensions = ['sphinx.ext.viewcode', 'sphinx.ext.autodoc']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -48,7 +48,7 @@ copyright = u'2012, PyAr'
 # built documents.
 #
 # The short X.Y version.
-version = datetime.datetime.now().strftime("%y.%m.%d") + "private"
+version = datetime.datetime.now().strftime("%y.%m.%d") + "Beta"
 # The full version, including alpha/beta/rc tags.
 release = version
 
