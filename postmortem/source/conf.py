@@ -49,6 +49,8 @@ copyright = u'2012, PyAr'
 #
 # The short X.Y version.
 PATH = os.path.abspath(os.path.dirname(__file__))
+print(os.listdir(os.path.join(PATH, "..")))
+print(os.listdir(os.path.join(PATH, "../..")))
 VERSION_TXT = os.path.join(PATH, "version.txt")
 STATUS = "BETA"
 with open(VERSION_TXT) as fp:
