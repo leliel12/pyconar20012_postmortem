@@ -139,3 +139,23 @@ Las medidas correctivas propuesta para tratar de subsanar lo malo consiste en:
       desglose de los gastos.
     - Se dejará un excedente de fondos detallados pertinentemente en el balance
       para subsanar los problemas en cuanto kick-off de la siguiente edición.
+
+
+Dificultades con el apoyo gubernamental
+---------------------------------------
+
+A la fecha (2012/12/27), todavía no tuvimos respuesta del FonSoft
+(RC2012: subsidio para reuniones científicas, Ministerio de Ciencia y Tecnología),
+más allá de que tenemos entendido hicimos todos los trámites necesarios en tiempo
+y forma. Esto influyó negativamente en nuestro presupuesto, ya que hubo que
+excluir temas como la publicidad y facilidades para los disertantes
+(más catering, transporte, etc.), y dejando a la espera otros servicios como
+edición de la filmación y publicación de los artículos seleccionados en
+revistas internacionales.
+
+Si bien hubo gestiones para obtener apoyo desde otras dependencias (como si por
+ej. logró la CISL), por cuestiones de tiempo no fue posible concretarlo y
+tampoco pudimos lograr declarar de interés cultural o tecnológico el evento.
+Esto último no tiene mayor impacto económico, pero si puede haber influido en
+aspectos como difusión en organismos públicos y asistencia (por ej.
+justificación de inasistencias).

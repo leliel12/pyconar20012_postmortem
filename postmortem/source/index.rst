@@ -24,6 +24,8 @@ PyCon Argentina 2012 - Post-Mortem
     sponsors.rst
     intro.rst
     objetivos.rst
+    agenda.rst
+    web.rst
     seleccion_charlas.rst
     ciencia.rst
     lasede.rst
@@ -33,7 +35,7 @@ PyCon Argentina 2012 - Post-Mortem
     becas.rst
     registracion_y_asistencia.rst
     frente_ondemand.rst
-    puntualidades.rst
+    lacomunidad.rst
     opiniones_personales.rst
     opiniones_sponsors.rst
     opiniones_asistentes.rst

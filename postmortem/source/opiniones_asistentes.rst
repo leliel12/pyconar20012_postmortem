@@ -123,8 +123,8 @@ Opiniones
           - Las mesas de los expositores estaban medio desordenadas y al segundo
             día de la conferencia algunos ya ni estaban armados.
 
-:Comentarios: - Siempre el mayor problema es que hay siempre dos charlas muy
-                buenas en el mismo horario.
+:Comentarios: Siempre el mayor problema es que hay siempre dos charlas muy
+              buenas en el mismo horario.
 
 
 
