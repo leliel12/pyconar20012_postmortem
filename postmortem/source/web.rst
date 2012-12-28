@@ -25,6 +25,12 @@ como la previsualización de certificados y credenciales (que no solo es un
 tema visual, sino que también podría ayudar a mejorar y evitar algunos
 inconvenientes que venimos teniendo),
 
+.. figure:: web/sshot.png
+    :align: center
+    :scale: 75 %
+
+    Sitio web de la conferencia
+
 Por otro lado, tenemos recursos limitados y poca colaboración para esta
 aplicación. En general, la cantidad de administradores/desarrolladores no
 supera las dos personas  (desde 2009, ya sea en web2py o django), recibimos
