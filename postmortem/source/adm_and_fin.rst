@@ -126,7 +126,7 @@ En esta etapa los principales aspectos fueron:
          cuestión.
 
 
-Etapa de  información y toma medidas correctivas
+Etapa de información y toma medidas correctivas
 ------------------------------------------------
 
 Este post-mortem junto con el balance constituyen esencialmente esta etapa.
@@ -139,6 +139,11 @@ Las medidas correctivas propuesta para tratar de subsanar lo malo consiste en:
       desglose de los gastos.
     - Se dejará un excedente de fondos detallados pertinentemente en el balance
       para subsanar los problemas en cuanto kick-off de la siguiente edición.
+
+.. figure:: adm_and_fin/inggrp.png
+    :align: center
+
+    Ingresos PyCon Argentina 2012 (aprox.)
 
 
 Dificultades con el apoyo gubernamental
