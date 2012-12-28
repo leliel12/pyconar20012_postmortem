@@ -78,4 +78,8 @@ Objetivos Incumplidos
       la cantidad de inscriptos.
     - No se pudo coordinar speakers internacionales con los otros eventos
       latinoamericanos.
+    - La applicacion de Android (http://guidebook.com/) fue un fracaso, porque
+      fue aprobada después que empezó el evento y no hubo tiempo para
+      promocionarla. Es recomendable pedir la aprobación de la  app mucho antes
+      del inicio de la conferencia.
 
