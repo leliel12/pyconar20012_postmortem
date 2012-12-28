@@ -50,8 +50,10 @@ copyright = u'2012, PyAr'
 # The short X.Y version.
 PATH = os.path.abspath(os.path.dirname(__file__))
 VERSION_TXT = os.path.join(PATH, "version.txt")
+STATUS = "BETA"
 with open(VERSION_TXT) as fp:
-    version = fp.read().strip() + "BETA"
+    version = fp.read().strip() + STATUS
+
 # The full version, including alpha/beta/rc tags.
 release = version
 
