@@ -119,13 +119,13 @@ Python Brasil (http://2012.pythonbrasil.org.br/)
 (que si bien se acordaron estrategias y temas generales, incluso en persona),
 hubo problemas de comunicación, cambios de fecha y otros inconvenientes no
 menores. Contemplar que también se agregó
-PyCon Uruguay sobre la hora
+PyCon Uruguay (http://uy.pycon.org/) sobre la hora
 y sin prácticamente coordinación con PyCon Argentina, y posiblemente el año que viene
-haya muchas otras conferencias (PyCon España, sumadas a PyCon Venezuela y otros
-países que están interesados, algunos ya poniendo fechas tentativas para 2013).
-Si bien no deberían afectar directamente a nuestra conferencia, considerar que
-si podrían tener impacto en la búsqueda de Sponsors, Disertantes y
-participantes en general, o redundar en duplicación de esfuerzos, gastos
-innecesarios o solapamiento de calendarios (al menos un disertante nos
+haya muchas otras conferencias (PyCon España, sumadas a PyCon Venezuela
+(http://ve.pycon.org/) y otros países que están interesados, algunos ya poniendo
+fechas tentativas para 2013). Si bien no deberían afectar directamente a nuestra
+conferencia, considerar que si podrían tener impacto en la búsqueda de Sponsors,
+Disertantes y participantes en general, o redundar en duplicación de esfuerzos,
+gastos innecesarios o solapamiento de calendarios (al menos un disertante nos
 comento que por ej. no pudo participar en otra conferencia dada la cercanía de
 fechas).

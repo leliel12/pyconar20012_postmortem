@@ -150,7 +150,8 @@ Dificultades con el apoyo gubernamental
 ---------------------------------------
 
 A la fecha (2012/12/27), todavía no tuvimos respuesta del FonSoft
-(RC2012: subsidio para reuniones científicas, Ministerio de Ciencia y Tecnología),
+(RC2012: subsidio para reuniones científicas, Ministerio de Ciencia y Tecnología
+(http://www.agencia.gov.ar/IMG/pdf/Bases_RC-2012.pdf)),
 más allá de que tenemos entendido hicimos todos los trámites necesarios en tiempo
 y forma. Esto influyó negativamente en nuestro presupuesto, ya que hubo que
 excluir temas como la publicidad y facilidades para los disertantes
@@ -159,7 +160,8 @@ edición de la filmación y publicación de los artículos seleccionados en
 revistas internacionales.
 
 Si bien hubo gestiones para obtener apoyo desde otras dependencias (como si por
-ej. logró la CISL), por cuestiones de tiempo no fue posible concretarlo y
+ej. logró la CISL (http://www.cisl.org.ar/)),
+por cuestiones de tiempo no fue posible concretarlo y
 tampoco pudimos lograr declarar de interés cultural o tecnológico el evento.
 Esto último no tiene mayor impacto económico, pero si puede haber influido en
 aspectos como difusión en organismos públicos y asistencia (por ej.
