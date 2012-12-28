@@ -14,5 +14,9 @@ puedan solucionarse para futuras ediciones, quiero volver a agradecer a todos
 los que colaboraron y asistieron a PyCon Argentina 2012, deseándoles felices
 fiestas y un próspero año nuevo.
 
-**Mariano Reingart**
-**Coordinador General**
+.. figure:: intro/mariano.jpg
+    :align: center
+    :scale: 35 %
+
+    **Mariano Reingart**
+    **Coordinador General**
