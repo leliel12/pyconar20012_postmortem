@@ -35,10 +35,12 @@ MAKE = "make.bat {}" if os.name == "nt" else "make {}"
 #===============================================================================
 # LOGIC
 #===============================================================================
-import sys; sys.exit(0)
+
+now = datetime.datetime.now()
+ver = now.strftime("%y.%m.%d.%M%S")
+
 print("frozen version")
 with open(VERSION_TXT, "w") as fp:
-    ver = datetime.datetime.now().strftime("%y.%m.%d.%M%S")
     fp.write(ver)
 
 def ex(cmd):
@@ -55,6 +57,7 @@ shutil.copy(PDF, TO)
 print(">> Copied '{}' -> '{}'".format(PDF, TO))
 
 ex("hg add {}".format(TO))
-ex('hg commit -m "add pdf at {}" -u prepush.py'.format(datetime.datetime.now()))
+ex('hg commit -m "add pdf at {}" -u prepush.py'.format(now))
+ex('hg tag {} -u prepush.py'.format(ver))
 
 
