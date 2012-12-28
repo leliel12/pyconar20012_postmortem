@@ -15,4 +15,4 @@ los que colaboraron y asistieron a PyCon Argentina 2012, deseándoles felices
 fiestas y un próspero año nuevo.
 
 **Mariano Reingart**
-**Coordinador General***
+**Coordinador General**
