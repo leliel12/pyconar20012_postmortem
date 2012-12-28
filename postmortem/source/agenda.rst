@@ -63,14 +63,16 @@ Para que pueda asistir el mayor número de personas, el evento fue de entrada
 libre y gratuita a todas las actividades (no solo en la sede principal, sino
 también a reuniones, cena, etc.)
 
+
 Poca convocatoria sobre educación
 ---------------------------------
 
 Excluyendo al SugarDay y el "stand de
 programación con Robots" que fueron positivos, pocos alumnos se presentaron en
-el Concurso de Trabajos Estudiantiles (por ese motivo y por temas de cashflow,
-los premios están en stand-by), y prácticamente ningún docente presento
-formalmente una actividad enfocada para la educación formal.
+el Concurso de Trabajos Estudiantiles
+(http://ar.pycon.org/2012/conference/contest) (por ese motivo y por temas de
+cashflow, los premios están en stand-by), y prácticamente ningún docente
+presento formalmente una actividad enfocada para la educación formal.
 
 Creemos que es preocupante ya que es una temática donde hay mucho por
 recorrer y aportar, sobre todo para escuelas secundarias, terciarios y
@@ -87,8 +89,9 @@ Falta de paneles de discusión
 -----------------------------
 
 Este año, intentando seguir el ejemplo de PyCon US, se propuso un
-"Encuentro de PyAr" con mesas redondas para charlar sobre las diferentes
-problemáticas y temas locales.
+"Encuentro de PyAr" U(http://ar.pycon.org/2012/conference/summit)
+con mesas redondas para charlar sobre las diferentes problemáticas y temas
+locales.
 
 No solo no hubo quorum (que puede ser entendible por la epoca del año y otras
 cuestiones organizativas), sino que no hubo ni siquiera un panel propuesto
