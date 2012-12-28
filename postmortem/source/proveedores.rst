@@ -32,7 +32,7 @@ Llegado Agosto se pidió a los proveedores seleccionados que re-enviaran
 nuevamente sus presupuestos actualizados para así armar los pedidos.
 
 El objetivo era tener una semana antes de la conferencia todo comprado y
-reservado. Pero aa realidad a pesar de que se comenzó a trabajar con un tiempo
+reservado. Pero,a pesar de que se comenzó a trabajar con un tiempo
 prudencial; hubo cuestiones que hicieron que los planes no se apegaran a lo
 esperado, no por cuestiones de tiempo, no por improvisación, sino por eventos
 que iban mas allá del alcance de la organización (se explicará este tema mas
@@ -51,8 +51,8 @@ El presupuestos de la conferencia resultaba bastante ajustado e imprevisible
 en cuanto a la concreción o fecha de acreditación de algunos ingresos por ser
 estos provenientes del extranjero, o en el caso del Fonsoft, que si se llegaba
 dar, se sabría en días muy próximos a la conferencia o incluso pasada la misma.
-Una precaución que se tuvo, respecto estos ingresos muy dilatados, fue
-asignarlos a gastos qno esenciales.
+Una precaución que se tuvo, respecto a estos ingresos muy dilatados, fue
+asignarlos a gastos no esenciales.
 
 Por estás razones se han tratado de negociar todos los precios. En algunos
 casos se ha podido conseguir un precio intermedio entre los dos presupuestos, y
@@ -63,7 +63,7 @@ Los pagos
 ---------
 
 Todos nuestros planes funcionaban a la perfección, hasta que llegó el momento de
-realizar los primeros pagos, es en este punto es donde se complicaron realmente
+realizar los primeros pagos, es en este punto donde se complicaron realmente
 las cosas en todos los niveles organizacionales.
 
 El dinero estaba, pero había demoras en SoLAr para que salieran los pagos.
@@ -75,16 +75,19 @@ podían dilatar.
 El tema crucial fue al momento de sacar el pago de los saldos cancelatorios
 para recibir los productos y servicios. En esta instancia a las demoras
 habituales se le sumó un problema de firmas, retrasando los pagos hasta mas
-de unasemana.
+de una semana.
 
-Estro produjo incomodidad con algunos proveedores. La mayoría,de todas formas,
+Esto produjo incomodidad con algunos proveedores. La mayoría,de todas formas,
 tuvo muy buena voluntad entregandonos los materiales a pesar de no haberles
-pagado. El retraso que más problemas causo fue el de la fiesta de cierre, ya que
-la ceverceria Quilmes solo mantie presupuestos por 1 semana.
+pagado. El retraso que más preocupación trajo fue el de la fiesta de cierre
+en el Parque de la ceverceria Quilmes, ya que el saldo debía cancelarse una
+semana antes del día de la fiesta. Y las remeras, sin el pago no había manera
+de que nos las entregasen.
+
 
 Lo perjudicial de esto, mas allá de la preocupación, fue que nos encontramos
 corriendo durante la semana de conferencia, retirando cosas que podríamos haber
-tenido y descuidando otros problemas.
+tenido con anterioridad y destinar ese tiempo a otras ocupaciones.
 
 .. only:: html
 
