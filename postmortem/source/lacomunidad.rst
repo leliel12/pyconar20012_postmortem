@@ -60,8 +60,8 @@ Controversias sobre la *Política de Diversidad y Código de Conducta*
 --------------------------------------------------------------------
 
 Este fue otro tema difícil, que si bien lo publicamos
-(ver página de diversidad), solo sirvió para generar más ruido y en la
-práctica fue de difícil aplicación.
+(http://ar.pycon.org/2012/conference/diversity), solo sirvió para generar más
+ruido y en la práctica fue de difícil aplicación.
 
 Muchos argumentan que no es necesario pero evidentemente creo que fallamos como
 comunidad porque al menos tuvimos una baja de una charla por estas cuestiones
@@ -69,16 +69,18 @@ comunidad porque al menos tuvimos una baja de una charla por estas cuestiones
 este motivo y directamente no participan en la conferencia).
 
 Lo peor que podemos hacer es tener una doble moral al respecto,
-y siguiendo las recomendaciones de la PSF, tendríamos que adoptar
-definitivamente su política de diversidad y un código de conducta, o
+y siguiendo las recomendaciones de la PSF
+(http://pyfound.blogspot.com.ar/2012/12/psf-moves-to-require-code-of-conduct.html),
+tendríamos que adoptar definitivamente su política de diversidad y un código de conducta, o
 directamente no solicitarle más fondos y llegado el caso, no usar la marca
 Python ni el nombre PyCon si no se comparten sus directivas, condiciones de uso
 y tendencias internacionales.
 
 Recordamos que no solo es importante la cuestión de genero, sino también hay
 que tener en cuenta el idioma y cuestiones culturales, como reconoce Steve
-Holden en su entrada de blog I'm Sorry, y lo que para unos puede ser una
-broma, para otros puede ser malentendido y/o sacado de contexto.
+Holden en su entrada de blog
+http://holdenweb.blogspot.com.ar/2012/12/im-sorry.html, y lo que para unos
+puede ser una broma, para otros puede ser malentendido y/o sacado de contexto.
 
 También tenemos que buscar diversidad en los aspectos técnicos (framework web,
 toolkit gui, sistema operativo, etc. etc.) como además en cuestiones
