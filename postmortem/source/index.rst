@@ -12,7 +12,13 @@ PyCon Argentina 2012 - Post-Mortem
         :align: center
         :scale: 60 %
 
-        `Descargar PDF <_static/PyConArgentina2012-PostMortem.pdf>`_
+    .. figure:: index/pdf-icon.png
+        :target: _static/PyConArgentina2012-PostMortem.pdf
+        :align: center
+        :alt: PDF
+        :scale: 30 %
+
+        Descargar PDF
 
     Contenido:
 
