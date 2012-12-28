@@ -166,3 +166,19 @@ tampoco pudimos lograr declarar de interés cultural o tecnológico el evento.
 Esto último no tiene mayor impacto económico, pero si puede haber influido en
 aspectos como difusión en organismos públicos y asistencia (por ej.
 justificación de inasistencias).
+
+
+Sobre el total del presupuesto
+------------------------------
+
+Si bien no tenemos números exactos de años anteriores,
+comparativamente el presupuesto se incremento alrededor de un 300% desde 2009
+y aprox. un 100% de 2012 (sin considerar el aumento de costos).
+
+Son montos importantes pero estamos lejos de las posibilidades de una
+conferencia internacional como
+DebConf (http://media.debconf.org/dc8/report/DebConf8_FinalReport_l.pdf)
+o MozCamp (https://wiki.mozilla.org/MozCampLATAM2012),
+que realizadas en el país
+para una duración y cantidad similar de asistentes, sus presupuestos oscilan
+alrededor de 200.000 USD.
