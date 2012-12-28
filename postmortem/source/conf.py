@@ -48,7 +48,10 @@ copyright = u'2012, PyAr'
 # built documents.
 #
 # The short X.Y version.
-version = datetime.datetime.now().strftime("%y.%m.%d") + "Beta"
+PATH = os.path.abspath(os.path.dirname(__file__))
+VERSION_TXT = os.path.join(PATH, "version.txt")
+with open(VERSION_TXT) as fp:
+    version = fp.read().strip() + "BETA"
 # The full version, including alpha/beta/rc tags.
 release = version
 

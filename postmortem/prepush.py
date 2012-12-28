@@ -22,15 +22,24 @@ import datetime
 
 PATH = os.path.abspath(os.path.dirname(__file__))
 
+SOURCE = os.path.join(PATH, "source")
+
+VERSION_TXT = os.path.join(SOURCE, "version.txt")
+
 PDF = os.path.join(PATH, "build", "latex", "PyConArgentina2012-PostMortem.pdf")
 
-TO = os.path.join(PATH, "source", "_static")
+TO = os.path.join(SOURCE, "_static")
 
 MAKE = "make.bat {}" if os.name == "nt" else "make {}"
 
 #===============================================================================
 # LOGIC
 #===============================================================================
+
+print("frozen version")
+with open(VERSION_TXT, "w") as fp:
+    ver = datetime.datetime.now().strftime("%y.%m.%d.%M%S")
+    fp.write(ver)
 
 def ex(cmd):
     print(">> Start '{}'...".format(cmd))
