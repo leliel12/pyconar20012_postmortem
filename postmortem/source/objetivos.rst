@@ -1,6 +1,6 @@
-===================
-Resumen y objetivos
-===================
+===================================
+Resumen y objetivos de PyConAr 2012
+===================================
 
 :Autor: Juan B Cabral.
 :Email: jbc.develop@gmail.com

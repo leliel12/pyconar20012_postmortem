@@ -27,8 +27,8 @@ Referencias
 - Free software and education - Fighting the digital divide: http://www.downes.ca/presentation/247
 
 
-Objetivo y estructura
----------------------
+Objetivo y estructura de este documento
+---------------------------------------
 
 Este documento se deja como referencia a la posteridad para futuros
 organizadores de PyCons

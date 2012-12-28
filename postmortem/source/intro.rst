@@ -1,6 +1,6 @@
-==========
-Bienvenida
-==========
+================================
+Palabras del Coordinador General
+================================
 
 Tienen ante ustedes un exaustivo documento resultado del analisis de lo
 realizado para lograr la conferencia PyCon Argentina 2012.
