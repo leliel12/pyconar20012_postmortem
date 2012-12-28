@@ -1,4 +1,4 @@
-=====
+﻿=====
 Becas
 =====
 
@@ -18,7 +18,7 @@ dinero, las becas se orientan a minimizar esta barrera.
 
 El procedimiento es el de siempre, se determina un período donde se
 pueden pedir las becas, y luego la organización evalúa qué porcentajes
-de lo pedido se ofrece.En esta ocasión, incluso, se abrió un segundo
+de lo pedido se ofrece. En esta ocasión, incluso, se abrió un segundo
 período posterior porque había un remanente de presupuesto que todavía
 se podía asignar a este fin.
 

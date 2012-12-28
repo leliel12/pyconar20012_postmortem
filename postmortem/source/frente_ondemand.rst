@@ -1,4 +1,4 @@
-===============================================
+﻿===============================================
 En el frente de Batalla: Actividades On-The-Fly
 ===============================================
 
@@ -7,7 +7,7 @@ En el frente de Batalla: Actividades On-The-Fly
 
 
 En el evento sucedieron varias actividades, que si bien a sabiendas que
-iban a suceder, por su naturaleza deberian ser planificadas y ejecutadas en
+iban a suceder, por su naturaleza deberían ser planificadas y ejecutadas en
 el momento de la conferencia.
 
 Estas actividades eran:
@@ -117,7 +117,7 @@ Resumen
       función de invitacion (a dar una charla relámpago) y explicación de la
       operativa.
     - Sorteos: Fueron desordenados e improvisados. Habría que haber previsto con
-      antelacion los siguientes puntos: premios, tiempo disponibles, los
+      antelación los siguientes puntos: premios, tiempo disponibles, los
       responsables y sus roles.
     - Stands y concursos sponsors: La ubicación no era la mejor durante el día
       viernes (separado de la registración). Muchos asistente no percibieron
@@ -125,12 +125,12 @@ Resumen
 
 :Lo Feo:
     - Lightning talks: Falto aclaración en las reglas ya que un grupo trató de
-      presentar mas de una charla que, a priori, parecian del mismo tema
-      (luego se aclaró que eran charlas distintas). Esto podria haber generado
+      presentar mas de una charla que, a priori, parecían del mismo tema
+      (luego se aclaró que eran charlas distintas). Esto podría haber generado
       gente que se sienta ofendida, o en el peor de los casos, discriminada.
     - Sorteos: Falto una lista clara de premios y anunciar cual es el orden de
       los mismos; para que los asistentes entiendan cuando empieza y termina
       el sorteo.
     - Stands y concursos sponsors: Explicar mejor la operatoria a los sponsors
       al momento del armado stand ya que no se preciso en que momento se
-      propondría a los asistentes a acercarse a su area de promoción.
+      propondría a los asistentes a acercarse a su área de promoción.

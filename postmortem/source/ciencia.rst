@@ -1,4 +1,4 @@
-================
+﻿================
 Track científico
 ================
 
@@ -16,7 +16,7 @@ Objetivos
 
 Se pueden enumerar los siguientes:
 
-    - Otorgar la oportunidad de divulgación del leguaje Python en la comunidad
+    - Otorgar la oportunidad de divulgación del lenguaje Python en la comunidad
       Científica Argentina.
     - Dar la posibilidad de de acceder y revisar las herramientas disponibles,
       tanto para problemas científicos como para otros de naturaleza mas
@@ -57,7 +57,7 @@ y otras puedan encontrar un lugar en la comunidad
 **Charlas:**
 
     - Introducción a Python Científico.
-    - Sho, un ambiente interactivo para análisis de dde datos.
+    - Sho, un ambiente interactivo para análisis de de datos.
     - Python para el procesamiento de secuencias genéticas.
     - Yatel - Exploración de perfiles para Minería de Datos.
     - Inteligencia Artificial con aima-python, un recurso poco conocido.
@@ -87,7 +87,7 @@ y otras puedan encontrar un lugar en la comunidad
 Asistentes
 ==========
 
-Lo más sorprendente de los asistentes fue su cantidad. Uno esta normalemente
+Lo más sorprendente de los asistentes fue su cantidad. Uno esta normalmente
 inducido a pensar que el ambiente científico es acotado y reducido. Esta track
 demostró lo contrario. Los asistentes variaban desde tópicos
 académicos/científicos a emprendedores industriales que utilizaban ciencia para

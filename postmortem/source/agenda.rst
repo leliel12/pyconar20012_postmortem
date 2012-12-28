@@ -1,4 +1,4 @@
-======
+﻿======
 Agenda
 ======
 
@@ -93,7 +93,7 @@ Este año, intentando seguir el ejemplo de PyCon US, se propuso un
 con mesas redondas para charlar sobre las diferentes problemáticas y temas
 locales.
 
-No solo no hubo quorum (que puede ser entendible por la epoca del año y otras
+No solo no hubo quórum (que puede ser entendible por la época del año y otras
 cuestiones organizativas), sino que no hubo ni siquiera un panel propuesto
 como actividad para la conferencia principal.
 
