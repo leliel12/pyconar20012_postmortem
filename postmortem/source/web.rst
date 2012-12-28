@@ -5,6 +5,8 @@ Sobre el sitio web
 :Autor: Mariano Reingart
 :Email: reingart@gmail.com
 
+Sitio web de la conferencia: http://ar.pycon.org/2012
+
 Tomamos muchas características de PyCon US y EuroPython, tratando de adaptarlas
 para nuestra operatoria, costumbres y posibilidades.
 
