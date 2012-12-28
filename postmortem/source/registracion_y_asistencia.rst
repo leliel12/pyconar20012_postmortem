@@ -160,3 +160,7 @@ Algunos gráficos
         :scale: 75 %
 
         Cantidad de personas que colaboraron con el bono contribución
+
+
+También pueden encontrarse mas gráficos dobre los asistentes del año 2012 en
+este enlace http://ar.pycon.org/2012/stats/charts
