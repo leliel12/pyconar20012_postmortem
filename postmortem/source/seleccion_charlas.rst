@@ -113,53 +113,6 @@ Las actividades resultantes fueron:
         Agenda resultante de la selección de charlas.
 
 
-Algunos gráficos
-----------------
-
-.. figure:: seleccion_charlas/tbestado.png
-    :scale: 100 %
-    :align: center
-
-    Estado resultante luego de la votación de aceptación de propuestas de
-    actividades
-
-
-----
-
-.. figure:: seleccion_charlas/tbnivel.png
-    :scale: 100 %
-    :align: center
-
-    Niveles de complejidad de las actividades propuestas
-
-
-----
-
-.. figure:: seleccion_charlas/tbtema.png
-    :scale: 100 %
-    :align: center
-
-    Temas de las actividades propuestas
-
-
-----
-
-.. figure:: seleccion_charlas/tbtipo.png
-    :scale: 100 %
-    :align: center
-
-    Tipos actividades propuestas
-
-
-----
-
-.. figure:: seleccion_charlas/tbnacionalidad.png
-    :scale: 100 %
-    :align: center
-
-    Nacionalidades de los candidatos a disertantes
-
-
 Resumen
 -------
 
@@ -192,3 +145,90 @@ Resumen
       que los nuevos revisores, que pueden desconocer las características de la
       comunidad en este aspecto particular, tengan una idea cierta de cómo se
       realiza la ponderación.
+
+
+Algunos gráficos
+----------------
+
+.. only:: html
+
+    .. figure:: seleccion_charlas/tbestado.png
+        :scale: 100 %
+        :align: center
+
+        Estado resultante luego de la votación de aceptación de propuestas de
+        actividades
+
+
+    ----
+
+    .. figure:: seleccion_charlas/tbnivel.png
+        :scale: 100 %
+        :align: center
+
+        Niveles de complejidad de las actividades propuestas
+
+
+    ----
+
+    .. figure:: seleccion_charlas/tbtema.png
+        :scale: 100 %
+        :align: center
+
+        Temas de las actividades propuestas
+
+
+    ----
+
+    .. figure:: seleccion_charlas/tbtipo.png
+        :scale: 100 %
+        :align: center
+
+        Tipos actividades propuestas
+
+
+    ----
+
+    .. figure:: seleccion_charlas/tbnacionalidad.png
+        :scale: 100 %
+        :align: center
+
+        Nacionalidades de los candidatos a disertantes
+
+
+.. only:: latex
+
+    .. figure:: seleccion_charlas/tbestado.png
+        :scale: 50 %
+        :align: center
+
+        Estado resultante luego de la votación de aceptación de propuestas de
+        actividades
+
+
+    .. figure:: seleccion_charlas/tbnivel.png
+        :scale: 50 %
+        :align: center
+
+        Niveles de complejidad de las actividades propuestas
+
+
+    .. figure:: seleccion_charlas/tbtema.png
+        :scale: 50 %
+        :align: center
+
+        Temas de las actividades propuestas
+
+
+    .. figure:: seleccion_charlas/tbtipo.png
+        :scale: 50 %
+        :align: center
+
+        Tipos actividades propuestas
+
+
+    .. figure:: seleccion_charlas/tbnacionalidad.png
+        :scale: 50 %
+        :align: center
+
+        Nacionalidades de los candidatos a disertantes

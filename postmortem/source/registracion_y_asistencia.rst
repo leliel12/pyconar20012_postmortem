@@ -119,6 +119,9 @@ Resumen
 Algunos gráficos
 ----------------
 
+También pueden encontrarse más gráficos dobre los asistentes del año 2012 en
+este enlace http://ar.pycon.org/2012/stats/charts
+
 .. only:: html
 
     .. figure:: registracion_y_asistencia/gr1.png
@@ -160,7 +163,3 @@ Algunos gráficos
         :scale: 75 %
 
         Cantidad de personas que colaboraron con el bono contribución
-
-
-También pueden encontrarse mas gráficos dobre los asistentes del año 2012 en
-este enlace http://ar.pycon.org/2012/stats/charts
