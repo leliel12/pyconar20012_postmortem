@@ -7,20 +7,29 @@ Sobre el sitio web
 
 Sitio web de la conferencia: http://ar.pycon.org/2012
 
-Tomamos muchas características de PyCon US y EuroPython, tratando de adaptarlas
-para nuestra operatoria, costumbres y posibilidades.
+Mas allá del esfuerzo empeñado en este tema (más de 300 cambios desde
+2010 (https://code.google.com/p/web2conf/source/list),
+con  una dedicación aproximada de
+2 meses de trabajo fulltime (http://www.ohloh.net/p/web2conf)
+e incluso haber tratado de explicado publicamente (http://pyconar.blogspot.com.ar/2012/07/sitio-web-de-pycon-argentina-un-poco-de.html)),
+no fue suficiente.
+
+Tomamos muchas características de PyCon US (http://us.pycon.org/) y
+EuroPython (https://ep2012.europython.eu/), tratando de adaptarlas para nuestra
+operatoria, costumbres y posibilidades.
 
 Incluso simplificamos muchos aspectos como la registración y propuesta de
 charlas (que comparativamente tienen menos pasos que los sitios mencionados).
 
 Por los comentarios y discusiones, esto no fue percibido, y algunos de los
 participantes solicitaron algo "más simple como en otros eventos" (como
-EventBrite o similar).
+EventBrite (http://www.eventbrite.com/) o similar).
 
 El problema es que para un evento como PyCon Argentina (gratuito, con decenas
 de disertantes y miles de potenciales usuarios), se complicaría manejarlo de
 esa manera porque necesitamos algunas características (como la agenda
-personalizada) para estimar mejor la asistencia, funcionalidades para las
+personalizada (http://pyconar.blogspot.com.ar/2012/10/cronograma-personalizado-reserva-tu.html))
+para estimar mejor la asistencia, funcionalidades para las
 búsquedas laborales (campos y CV, que ya son tradicionales y las hemos
 ofrecido a los sponsors desde la primera conferencia), o temas adicionales
 como la previsualización de certificados y credenciales (que no solo es un

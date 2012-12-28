@@ -5,6 +5,8 @@ Agenda
 :Autor: Mariano Reingart
 :Email: reingart@gmail.com
 
+Link a la agenda: http://ar.pycon.org/2012/schedule
+
 Las personas aprenden y se relacionan de maneras diversa. Algunos avanzan mucho
 escuchando charlas, otros necesitan una estrategia más “manos a la obra”.
 
@@ -32,7 +34,8 @@ aceptación. Debido a lo mencionado en párrafo anterior, se podría reorganizar
 un track en “inglés” (incluso para evitar tener muchas charlas en idioma
 extranjero al mismo tiempo, como nos ocurrió este año en ocasiones).
 
-La Jornada de PostgreSQL y de SugarLabs en paralelo también tuvieron la
+La Jornada de PostgreSQL (http://www.pgday.com.ar/buenosaires2012) y de
+SugarLabs en paralelo también tuvieron la
 aceptación esperada.
 
 En general, con el calendario de este año, con 3 días iniciales de sprints,
