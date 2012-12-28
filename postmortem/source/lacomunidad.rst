@@ -43,6 +43,18 @@ representativas; sin olvidar otros temas como delegar las tareas de secretaría,
 administración y contabilidad, pudiéndonos concentrar en aspectos más
 fundamentales.
 
+.. only:: html
+
+    .. image:: lacomunidad/posavasos-pyar.jpg
+        :align: center
+
+.. only:: latex
+
+    .. image:: lacomunidad/posavasos-pyar.jpg
+        :align: center
+        :scale: 50 %
+
+
 
 Controversias sobre la *Política de Diversidad y Código de Conducta*
 --------------------------------------------------------------------
