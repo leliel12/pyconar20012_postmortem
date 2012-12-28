@@ -37,7 +37,7 @@ MAKE = "make.bat {}" if os.name == "nt" else "make {}"
 #===============================================================================
 
 now = datetime.datetime.now()
-ver = now.strftime("%y.%m.%d.%M%S")
+ver = now.strftime("%y.%m.%d.%H%M")
 
 print("frozen version")
 with open(VERSION_TXT, "w") as fp:
