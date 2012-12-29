@@ -8,15 +8,15 @@ Comunidad
 Organización informal de PyConAr
 -------------------------------
 
-Salvando las distancias y sin desmerecer a nadie ni lo hecho hasta el momento,
-tenemos menos coordinación y estructura que un "centro de jubilados"
-(tomándolo con cierto humor y a modo de autocritica en la que me incluyo este
-año como uno de los responsables principales por no haber podido lograr una
+La descordinación y la falta de estructura que presenta PyAr,
+impacta bastante en lo que conlleva una conferencia.
+(Esto es a modo de autocrítica en la que nos incluimos este
+año como responsables principales por no haber podido lograr una
 organización de la conferencia más fluida).
 
 A pesar de que en esta edición tratamos de documentar todas las normas y
 procedimientos de manera pública y abierta, desde la propuesta de sede, llamado
-a sponsors, llamado por propuestas de actividades, llamado a revisores, 
+a sponsors, llamado por propuestas de actividades, llamado a revisores,
 lamado a voluntarios, etc. (y en general, tomando versiones previas que venimos
 trabajando en PyAr desde 2009, o usando directamente textos de la PSF o
 PyCon US), la "anarquía" en algunos casos se convirtió en caos, con
@@ -64,9 +64,9 @@ Este fue otro tema difícil, que si bien lo publicamos
 ruido y en la práctica fue de difícil aplicación.
 
 Muchos argumentan que no es necesario pero evidentemente creo que fallamos como
-comunidad en manejarlo porque al menos tuvimos un sponsor que no quiso 
-participar (por ciertos comentarios "polémicos"), y una baja de una charla y 
-posterior partida  de la comunidad de una participante que no se sintió comoda 
+comunidad en manejarlo porque al menos tuvimos un sponsor que no quiso
+participar (por ciertos comentarios "polémicos"), y una baja de una charla y
+posterior partida  de la comunidad de una participante que no se sintió comoda
 (posiblemente por cuestiones de genero, hasta donde pudimos averiguar).
 Seguramente nunca sabremos de aquellos que se sienten intimidados por diversos
 motivos y directamente no participan en la conferencia.
@@ -86,8 +86,8 @@ http://holdenweb.blogspot.com.ar/2012/12/im-sorry.html, y lo que para unos
 puede ser una broma, para otros puede ser malentendido y/o sacado de contexto.
 
 También agregaría de buscar diversidad en los aspectos técnicos (framework web,
-toolkit gui, sistema operativo, etc. etc.) como además en cuestiones personales 
-comerciales y laborales (licencias de software, modelos de negocios, 
+toolkit gui, sistema operativo, etc. etc.) como además en cuestiones personales
+comerciales y laborales (licencias de software, modelos de negocios,
 habilidades, experiencia y origenes, etc.), sin olvidar de mantener un ambiente
 profesional, cordial y respetuoso en todos los casos.
 
