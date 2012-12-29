@@ -166,13 +166,28 @@ Esto último no tiene mayor impacto económico, pero si puede haber influido en
 aspectos como difusión en organismos públicos y asistencia (por ej.
 justificación de inasistencias).
 
+Aclaraciones sobre aportes indirectos:
+--------------------------------------
+
+Gracias a la colaboración de las comunidades internacionales y empresas (Google, 
+Maersk Oil, Microsoft, PostgreSQL, web2py, entre otras), este año no se 
+cubrieron pasajes de avión para ningún disertante. 
+Gracias a la colaboración de la Universidad Nacional de Quilmes, pudimos 
+reducir el presupuesto de impresiones y filmación, y no tuvimos gastos 
+adicionales respecto a la sede (sonido, proyectores, limpieza, etc.).
+Gracias a la colaboración de diferentes sponsors pudimos ofrecer cintas 
+colgantes, remera de colaboradores y artículos promocionales (MSA), bolsas, 
+carpetas y lapiceras (Dattatec), y cubrir en parte la fiesta de cierre
+(Onapsis), sin olvidar la colaboración de la Urban Station, US21 y Educación IT 
+por ofrecer sus instalaciones y comodidades como sede secundarias del evento.
+
 
 Sobre el total del presupuesto
 ------------------------------
 
 Si bien no tenemos números exactos de años anteriores,
-comparativamente el presupuesto se incremento alrededor de un 300% desde 2009
-y aprox. un 100% de 2012 (sin considerar el aumento de costos).
+aproximadamente el presupuesto se incremento alrededor en 3 veces desde 2009
+y el doble respecto de 2011 (sin ajustar el aumento de costos).
 
 Son montos importantes pero estamos lejos de las posibilidades de una
 conferencia internacional como

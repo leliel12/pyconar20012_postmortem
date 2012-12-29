@@ -7,7 +7,7 @@ Las Sedes
 
 
 Este año PyConAr 2012 se realizo durante toda una semana (2012/11/12 al
-(2012/11/17) por lo cual se designaron 2 sedes (y una de backup) para todo el
+2012/11/17) por lo cual se designaron 2 sedes (y una de backup) para todo el
 evento.
 
 
