@@ -17,10 +17,10 @@ Licencia
 Referencias
 -----------
 
+- Fuentes de este documento: https://bitbucket.org/leliel12/pyconar20012_postmortem
 - Pagina web del evento: http://ar.pycon.org/2012
 - PyAr: http://pyar.org.ar
 - Hitchhiker's guide to make a PyConAr2010: http://python.org.ar/pyar/HGTTP
-- Fuentes de este documento: https://bitbucket.org/leliel12/pyconar20012_postmortem
 - DebConf Final Reports: http://media.debconf.org/reports/
 - PgCon Brasil 2009: http://pgbr.postgresql.org.br/2009/asl/pgcconbr-2009prestcontas.pdf
 - Evaluación de las 7JRSL: http://robertoallende.com/es/evaluacion-de-las-7jrsl
