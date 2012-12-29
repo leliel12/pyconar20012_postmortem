@@ -77,21 +77,21 @@ presento formalmente una actividad enfocada para la educación formal.
 Creemos que es preocupante ya que es una temática donde hay mucho por
 recorrer y aportar, sobre todo para escuelas secundarias, terciarios y
 universidades (al menos en materias de introducción a la programación y
-desarrollo web). Sería bueno ver de contactar las iniciativas existentes,  
-como por ej. la cátedra en FIUBA (https://sites.google.com/site/fiuba7540rw/) y 
+desarrollo web). Sería bueno ver de contactar las iniciativas existentes,
+como por ej. la cátedra en FIUBA (https://sites.google.com/site/fiuba7540rw/) y
 otros profesores que también enseñan con Python a lo largo del país.
 
 Quizás deberíamos tener un enfoque más activo para próximas ediciones, tal vez
 con un encuentro sobre educación como PyCon US (ver sección anterior) o un
 track educativo, para fomentar aún más a Python como opción en la educación
-argentina. 
+argentina.
 
 
 Falta de paneles de discusión
 -----------------------------
 
 Este año, intentando seguir el ejemplo de PyCon US, se propuso un
-"Encuentro de PyAr" U(http://ar.pycon.org/2012/conference/summit)
+"Encuentro de PyAr" (http://ar.pycon.org/2012/conference/summit)
 con mesas redondas para charlar sobre las diferentes problemáticas y temas
 locales.
 
