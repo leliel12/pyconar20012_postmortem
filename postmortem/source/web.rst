@@ -19,10 +19,10 @@ EuroPython (https://ep2012.europython.eu/), tratando de adaptarlas para nuestra
 operatoria, costumbres y posibilidades.
 
 Incluso simplificamos muchos aspectos como la registración y propuesta de
-charlas (que comparativamente tienen menos pasos que los sitios mencionados).
+charlas (que comparativamente tiene menos pasos que los sitios mencionados).
 
 Por los comentarios y discusiones, esto no fue percibido, y algunos de los
-participantes solicitaron algo "más simple como en otros eventos" (como
+participantes solicitaron algo "más simple como en otros eventos" (quizás como
 EventBrite (http://www.eventbrite.com/) o similar).
 
 El problema es que para un evento como PyCon Argentina (gratuito, con decenas
@@ -34,7 +34,12 @@ búsquedas laborales (campos y CV, que ya son tradicionales y las hemos
 ofrecido a los sponsors desde la primera conferencia), o temas adicionales
 como la previsualización de certificados y credenciales (que no solo es un
 tema visual, sino que también podría ayudar a mejorar y evitar algunos
-inconvenientes que venimos teniendo),
+inconvenientes que venimos teniendo). 
+Incluso el sitio tiene funcionalidad para adjuntar los slides que no ha sido
+muy utilizada.
+Incluír también la compaginación de las presentaciones, video y subtitulos sería 
+ideal (y estamos trabajando en ello, ver: http://code.google.com/p/video2py),
+sobre todo si es de manera colaborativa para reducir los tiempos y costos.
 
 .. figure:: web/sshot.png
     :align: center
@@ -55,10 +60,10 @@ empresa para mejorar el HTML que lamentablemente no se concretó.
 
 Si bien muchos de estos temas pueden parecer accesorios y se podría
 tranquilamente usar algún paquete "extranjero" o directamente un sitio
-estático y recibir las charlas por mail, que sería parecería un retroceso, no
+estático y recibir las charlas por mail, me parecería un retroceso, no
 solo perderíamos la experiencia y trabajo de estos últimos 4 años
 (comenzando desde 0 otra vez), sino que resultaría menos práctico, poco
-transparente y hasta desprolijo.
+transparente y hasta desprolijo (dependiendo de la opción elegida).
 
 Una última recomendación sobre este tema es no desarrollar el sitio web a la
 par de la conferencia. Lamentablemente venimos con ese "modus operandi" desde

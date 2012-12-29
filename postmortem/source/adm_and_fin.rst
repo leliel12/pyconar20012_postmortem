@@ -78,12 +78,12 @@ En esta etapa los principales aspectos fueron:
       PSF y a Microsoft demoraron en ingresar por controles adicionales
       impositivos y, consecuentemente,  la espalda financiera de  la
       Conferencia se vió afectada.
-    - Solar, por su estructura organizativa, demoró el cumplimiento y pago
-      con los proveedores, que generó ciertos desfasajes  y dificultades que
-      debieron superarse en la etapa de ejecución.
+    - Dada la estructura de Solar y problemas de trámites con el banco, hubo  
+      demoras en los pagos a proveedores, lo que generó ciertos desfasajes  y 
+      dificultades que debieron superarse en la etapa de ejecución.
     - Hubo momentos en que los  organizadores debieron cubrir los gastos de la
       conferencia por un lapso de tiempo hasta que ingresaron los fondos o Solar
-      agilizara sus procedimientos para realizar pagos.
+      solucionara los inconvenientes para realizar pagos.
     - La falta de personería jurídica también fue un aspecto negativo, no sólo
       por la falta de rapidez en la realización de pagos, sino también porque
       en Solar encontramos discrepancias ideológicas a la hora de aceptar o
@@ -122,8 +122,7 @@ En esta etapa los principales aspectos fueron:
 :Lo Feo: Por la falta de personería jurídica se vio acotado el poder de decisión
          de la organización en cuanto a la elección de patrocinadores y
          disposición de los pagos. Un sponsor se cayo culpa un poco de unos
-         mails traspapelados y un poco mala voluntad del patrocinador en
-         cuestión.
+         mails traspapelados y por voluntad del patrocinador en cuestión.
 
 
 Etapa de información y toma medidas correctivas
@@ -159,7 +158,7 @@ excluir temas como la publicidad y facilidades para los disertantes
 edición de la filmación y publicación de los artículos seleccionados en
 revistas internacionales.
 
-Si bien hubo gestiones para obtener apoyo desde otras dependencias (como si por
+Si bien hubo gestiones para obtener apoyo desde otras dependencias (como por
 ej. logró la CISL (http://www.cisl.org.ar/)),
 por cuestiones de tiempo no fue posible concretarlo y
 tampoco pudimos lograr declarar de interés cultural o tecnológico el evento.

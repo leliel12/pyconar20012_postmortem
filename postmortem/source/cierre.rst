@@ -6,7 +6,9 @@ Se trato de incluir en este documento todos los aciertos, riesgos y fracasos que
 nos afectaron durante toda las etapas de la conferencia.
 
 El trabajo para llegar a este momento y pasar la posta a PyCon Argentina 2013
-fue mucho y desgastante (se deja la salud, el dinero y amigos en el proceso).
+fue mucho y por momentos desgastante, pero creemos que esto puede mejorarse a 
+futuro, y tratamos de dar nuestro mayor esfuerzo para facilitar la tarea de 
+organización de próximas ediciones.
 
 De todas maneras es una experiencia que a toda persona que quiera colaborar en
 la difusión de una tecnología debería intentar; ya que no todo problema se

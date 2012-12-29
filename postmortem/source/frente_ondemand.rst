@@ -130,7 +130,9 @@ Resumen
       gente que se sienta ofendida, o en el peor de los casos, discriminada.
     - Sorteos: Falto una lista clara de premios y anunciar cual es el orden de
       los mismos; para que los asistentes entiendan cuando empieza y termina
-      el sorteo.
+      el sorteo. (N.del.E.: Los premios estaban listados en la guia de programa
+      impresa y en una entrada del blog: 
+      http://pyconar.blogspot.com.ar/2012/10/premios-promociones-y-beneficios.html) 
     - Stands y concursos sponsors: Explicar mejor la operatoria a los sponsors
       al momento del armado stand ya que no se preciso en que momento se
       propondría a los asistentes a acercarse a su área de promoción.

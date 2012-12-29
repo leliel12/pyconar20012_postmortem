@@ -16,7 +16,7 @@ Urban Station: Sede Downtown
 
 :Homepage: http://argentina.enjoyurbanstation.com
 
-Urban station es segun su propia pagina de internet:
+Urban Station es segun su propia pagina de internet:
 
     ... el primer lugar diseñado especialmente para los
     trabajadores móviles y para todos aquellos que compartan la idea de que es
@@ -64,7 +64,7 @@ con mucho menos concurrencia así que solo se utilizó el salón mas grande.
 Los días miércoles y jueves volvimos a tener un lleno total, sumando el jueves
 el auditorio donde se realizaron los tutoriales.
 
-Lamentablemente en el local tuvimos un corte de luz justo antes de la última
+Lamentablemente en la zona tuvimos un corte de luz justo antes de la última
 exposición de los tutoriales (el jueves) por lo cual movimos solo esta charla
 a *Educacion IT* a media cuadra de Urban Station Downtown.
 
@@ -92,7 +92,7 @@ a *Educacion IT* a media cuadra de Urban Station Downtown.
           microcentro (esto no es propio de la sede pero hay que tenerlo en
           cuenta). El corte de luz que afectó a buena parte del microcentro nos
           retraso en la última disertación. El aire acondicionado del auditorio
-          no funcionaba.
+          no funcionaba bien (se dañó por los cortes de luz un día antes).
 :Lo Feo: Tenemos un compañero de PyAr que esta en sillas de rueda y todo el
          local tiene escaleras y no esta preparado para discapacitados.
 
@@ -106,7 +106,7 @@ Los momentos fuertes de la conferencia (Las charlas del viernes y sábado) suele
 reunir una cantidad enorme de personas; por lo cual siempre las alternativas de
 PyAr fueron las Universidades.
 
-Este año, la universidad en cuestión fue la UnQui que se encuentra en
+Este año, la universidad seleccionada fue la UnQui que se encuentra en
 *Roque Sáenz Peña 352, Bernal Buenos Aires, Argentina (B1876BXD)*.
 
 Nos brindaron un auditorio grande para mas de 200 personas y 3 aulas para
@@ -123,28 +123,34 @@ para comprar comida.
     Universidad Nacional de Quilmes
 
 
-Las autoridades del lugar se portaron excelente con la organización y no tuvimos
+Las autoridades del lugar colaboraron excelente con la organización y no tuvimos
 ni un problema de malentendidos.
 
-En la elección de la sede la organización del evento (PyAr) se equivoco al
+En la elección de la sede la organización del evento (PyAr) quizás no acertó al
 elegir un lugar fuera de Capital Federal, ya que recibimos varias críticas de
-Porteños que se niegan a viajar Provincia (por lo discutido esto perece un
-comportamiento común); esto es algo a tener en cuenta a futuro.
+personas que no desean viajar a "Provincia" (por lo discutido esto perece un
+comportamiento común); esto es algo a tener en cuenta a futuro (más alla de que
+tratamos de mitigarlo moviendo algunas actividades al microcentro y contratando 
+una Combi para 25 personas; pero no hubo fondos para alquilar un transporte más 
+grande y tampoco tuvimos propuestas concretas de sedes más accesibles y viables).
 
-La asignación de aulas para cada charla fue tomada en base a la votaciones
-de los inscriptos en la página del evento (las estrellas). La mayoría
-fue bien distribuida, pero hubo casos donde no funcionó y hubo mas de 100 personas
-en aulas preparadas para no mas de 30 sin aire acondicionado.
+La asignación de aulas para cada charla trató de usar como base a la votaciones 
+y preferencias de los inscriptos en la página del evento (las "estrellas"). La 
+mayoría fue bien distribuida, pero hubo casos donde hubo mas de 60 personas
+en aulas preparadas para no mas de 30 sin aire acondicionado (cabe aclarar que
+salvo el auditorio, el resto de las aulas designadas para la conferencia eran 
+mucho más reducidas y sin aire acondicionado, y no se supo hasta el día del 
+evento cuales eran efectivamente, lo que también dificultó la planificación).
 
 La distribución de las aulas en la facultad fue otro punto problemático, hay que
 recordarles a las sedes que si están dispuestos a organizar un evento de la
 magnitud de PyConAr deben estar dispuestos a poner las aulas a comodidad de las jornadas.
 Las aulas, en definitiva, estuvieron extremadamente dispersas e incómodas para
 ubicarlas por los asistentes, acompañado a esto durante algunas horas se
-escuchaban ruidos molestos de construcciones mientras los disertantes hacían lo
-suyo. Cabe aclarar que nos explicaron de problemas de logísta de aulas que tuvieron
+escuchaban ruidos molestos de construcciones mientras los disertantes daban las
+charlas. Cabe aclarar que nos explicaron de problemas de logísta de aulas que tuvieron
 pero aun así debe quedar registrado ya que con mas de 8 meses de planificación
-esto se pudo haber evitado sin problemas.
+creemos que esto se pudo haber evitado sin problemas.
 
 El peor punto de la conferencia es un problema que tuvimos con una agrupación
 política perteneciente a la UnQui (identificados con el color violeta), la cual
@@ -173,7 +179,7 @@ por que ha atacado a golpes a tanto hombres como mujeres.
 
 Por último sufrimos la sustracción de una netbook de un asistente, y de un banner
 de la conferencia. Es recomendable que los siguientes eventos tengan un
-guardarropa.
+guardarropa y usar los candados de seguridad para notebooks.
 
 :Lo Bueno: La sede es un lugar calmado y cómodo a pocos minutos de Bs. As. El
            Auditorio es confortable y fresco. Los accesos para los

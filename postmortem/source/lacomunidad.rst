@@ -9,23 +9,23 @@ Organización informal de PyConAr
 -------------------------------
 
 Salvando las distancias y sin desmerecer a nadie ni lo hecho hasta el momento,
-tenemos menos coordinación y recursos que un "centro de jubilados"
+tenemos menos coordinación y estructura que un "centro de jubilados"
 (tomándolo con cierto humor y a modo de autocritica en la que me incluyo este
 año como uno de los responsables principales por no haber podido lograr una
 organización de la conferencia más fluida).
 
 A pesar de que en esta edición tratamos de documentar todas las normas y
 procedimientos de manera pública y abierta, desde la propuesta de sede, llamado
-a sponsors, llamado por propuestas de actividades, llamado a revisores, l
+a sponsors, llamado por propuestas de actividades, llamado a revisores, 
 lamado a voluntarios, etc. (y en general, tomando versiones previas que venimos
 trabajando en PyAr desde 2009, o usando directamente textos de la PSF o
 PyCon US), la "anarquía" en algunos casos se convirtió en caos, con
 confrontaciones, contramarchas, caminos sin salida, etc., lo que generó
 divisiones, desgaste y demoras innecesarias.
 
-Evidentemente no fue suficiente porque recibimos quejas de disertantes,
+Evidentemente no fue suficiente porque tuvimos planteos de disertantes,
 sponsors, participantes e incluso coordinadores, sobre cuestiones que estaban
-contempladas en estos documentos.
+contempladas en estos documentos pero igualmente generaron malos entendidos.
 
 Si bien en general, la mayoría de estos temas pudieron ser superados,
 generaron un nivel de ruido importante que podría haber sido evitado
@@ -64,11 +64,14 @@ Este fue otro tema difícil, que si bien lo publicamos
 ruido y en la práctica fue de difícil aplicación.
 
 Muchos argumentan que no es necesario pero evidentemente creo que fallamos como
-comunidad porque al menos tuvimos una baja de una charla por estas cuestiones
-(y seguramente nunca sabremos de aquellos que se sienten intimidados por por
-este motivo y directamente no participan en la conferencia).
+comunidad en manejarlo porque al menos tuvimos un sponsor que no quiso 
+participar (por ciertos comentarios "polémicos"), y una baja de una charla y 
+posterior partida  de la comunidad de una participante que no se sintió comoda 
+(posiblemente por cuestiones de genero, hasta donde pudimos averiguar).
+Seguramente nunca sabremos de aquellos que se sienten intimidados por diversos
+motivos y directamente no participan en la conferencia.
 
-Lo peor que podemos hacer es tener una doble moral al respecto,
+Creo que lo peor que podemos hacer es tener una doble moral al respecto,
 y siguiendo las recomendaciones de la PSF
 (http://pyfound.blogspot.com.ar/2012/12/psf-moves-to-require-code-of-conduct.html),
 tendríamos que adoptar definitivamente su política de diversidad y un código de conducta, o
@@ -82,17 +85,17 @@ Holden en su entrada de blog
 http://holdenweb.blogspot.com.ar/2012/12/im-sorry.html, y lo que para unos
 puede ser una broma, para otros puede ser malentendido y/o sacado de contexto.
 
-También tenemos que buscar diversidad en los aspectos técnicos (framework web,
-toolkit gui, sistema operativo, etc. etc.) como además en cuestiones
-comerciales y laborales (licencias de software, modelos de negocios,
-organización empresarial, etc.), sin olvidar de mantener un ambiente
+También agregaría de buscar diversidad en los aspectos técnicos (framework web,
+toolkit gui, sistema operativo, etc. etc.) como además en cuestiones personales 
+comerciales y laborales (licencias de software, modelos de negocios, 
+habilidades, experiencia y origenes, etc.), sin olvidar de mantener un ambiente
 profesional, cordial y respetuoso en todos los casos.
 
 La inclusión y pluralidad fue unos de los objetivos de esta PyCon Argentina,
 y aunque al principio creo que no se entendió, el resultado ha sido positivo.
 
 En el aspecto técnico pudimos incluir a casi todos los frameworks web (django,
-flask, plone, web2py) y toolkits (gtk, wx) y plataformas "en la nube"
+flask, plone, web2py), toolkits (gtk, wx) y plataformas "en la nube"
 (Azure, GAE, Heroku, Amazon). Lamentablemente algunos disertantes no pudieron
 asistir (como en el caso de gevent.socketio/pyramid) y otros decidieron no
 participar por distintos motivos.

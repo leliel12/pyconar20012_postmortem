@@ -13,7 +13,7 @@ La registración consistía en: pedir el nombre y apellido de la
 persona, al encontrarla en la lista se le indicaba un número para retirar
 la credencial y al mismo tiempo se hacía entrega de una bolsa con merchandising
 de los diferentes sponsors del evento. Si correspondía también podía retirar
-su remera de la conferencia y demás productos adquiridos con el bono
+su remera de la conferencia y demás productos incluidos con el bono
 contribución
 
 Una posibilidad era que la persona no esté previamente registrada por el sitio
@@ -102,7 +102,8 @@ Resumen
             mayoría los encontramos, solo era cuestión de tiempo)
           - No había suficiente cantidad de credenciales en blanco y se
             tuvieron que utilizar repetidas o de personas que sabíamos que no
-            iban a asistir.
+            iban a asistir. (N.del.E.: se hicieron más de 80 credenciales en
+            blanco, tomando un 10% de las personas inscriptas por el sitio web)
 :Lo Feo: - Si bien no incumbe a la organización en sí; fue un mal momento
            cuando una de las asistentes notó que habían robado su notebook desde
            el "apartado" donde se encontraban, en su mayor parte, objetos

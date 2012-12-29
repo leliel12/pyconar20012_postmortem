@@ -38,7 +38,8 @@ Se hace un resumen desde el punto de vista de la coordinación general con el
 manejo de fondos de las becas.
 
 :Lo Bueno: Las becas son lo mas bueno en si mismo.
-:Lo Malo: Costo integrar el dinero de las becas con el resto de la conf.
-:Lo Feo: Una becada no asistió, si bien eso es sobrante para la siguiente
-         edición no era el plan origina. El dinero de las becas estaba en una
-         cuenta personal y no en el de SoLAr.
+:Lo Malo: Costó integrar el dinero de las becas con el resto de la conf.
+:Lo Feo: Una becada no asistió (y dos beneficiarios desistieron a último 
+         momento), si bien eso forma parte del sobrante para la siguiente
+         edición no era el plan original. El dinero de las becas estaba en una
+         cuenta personal y no en la de SoLAr.

@@ -70,8 +70,8 @@ Opiniones
           - Me gustaría haber visto el schedule completo como página web.
             Había que bajarse un PDF (muy bien hecho), pero no sé, lo web
             queda más visible, indexable, enviable como enlace (N.del.E.: El
-            schedule completo se encontraba disponible en esta dirección
-            http://ar.pycon.org/2012/schedule/index pero se deja este
+            schedule completo se encontraba disponible como link en la página
+            ppal. a http://ar.pycon.org/2012/schedule pero se deja este
             comentario para que quede patente la complejidad de la página web).
           - Mucha gente se anota pero poca es la que termina asistiendo y esto
             hacer gastar muchísimo esfuerzo de la gente que organiza.
@@ -89,7 +89,7 @@ Opiniones
             http://listas.python.org.ar/pipermail/pyar/2012-November/021025.html
             )
           - No hubo fondos para pagar los premios del concurso de aplicaciones
-            estudiantiles.
+            estudiantiles (N.del.E.: el tema esta pendiente de definición).
           - Las instalaciones de la UNQ están bien para cursar, pero no para
             una PyCon. Honestamente PyConAr no tiene una sede buena desde la de
             la Universidad de Belgrano (PyConAr 2009). Una charla de un
