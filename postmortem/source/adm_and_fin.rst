@@ -26,8 +26,8 @@ insumo base para la elaboración del presupuesto.
 
 De esta etapa los datos más importantes recolectados son:
 
-La edición  2009 tuvieron los gastos bastante detallados; pero a causa de la
-inflación,  esta información era para “tomarse con pinzas”.
+La edición 2009 tuvieron los gastos bastante detallados; pero a causa de la
+inflación, esta información era para “tomarse con pinzas”.
 
     - De la edición 2010 no conseguimos datos (N.del.E.: La planilla de gastos
       del 2010 fue entregada 4 meses después, cuando ya la organización estaba
@@ -78,8 +78,8 @@ En esta etapa los principales aspectos fueron:
       PSF y a Microsoft demoraron en ingresar por controles adicionales
       impositivos y, consecuentemente,  la espalda financiera de  la
       Conferencia se vió afectada.
-    - Dada la estructura de Solar y problemas de trámites con el banco, hubo  
-      demoras en los pagos a proveedores, lo que generó ciertos desfasajes  y 
+    - Dada la estructura de Solar y problemas de trámites con el banco, hubo
+      demoras en los pagos a proveedores, lo que generó ciertos desfasajes  y
       dificultades que debieron superarse en la etapa de ejecución.
     - Hubo momentos en que los  organizadores debieron cubrir los gastos de la
       conferencia por un lapso de tiempo hasta que ingresaron los fondos o Solar
@@ -166,19 +166,20 @@ Esto último no tiene mayor impacto económico, pero si puede haber influido en
 aspectos como difusión en organismos públicos y asistencia (por ej.
 justificación de inasistencias).
 
-Aclaraciones sobre aportes indirectos:
---------------------------------------
 
-Gracias a la colaboración de las comunidades internacionales y empresas (Google, 
-Maersk Oil, Microsoft, PostgreSQL, web2py, entre otras), este año no se 
-cubrieron pasajes de avión para ningún disertante. 
-Gracias a la colaboración de la Universidad Nacional de Quilmes, pudimos 
-reducir el presupuesto de impresiones y filmación, y no tuvimos gastos 
+Aclaraciones sobre aportes indirectos
+-------------------------------------
+
+Gracias a la colaboración de las comunidades internacionales y empresas (Google,
+Maersk Oil, Microsoft, PostgreSQL, web2py, entre otras), este año no se
+cubrieron pasajes de avión para ningún disertante.
+Gracias a la colaboración de la Universidad Nacional de Quilmes, pudimos
+reducir el presupuesto de impresiones y filmación, y no tuvimos gastos
 adicionales respecto a la sede (sonido, proyectores, limpieza, etc.).
-Gracias a la colaboración de diferentes sponsors pudimos ofrecer cintas 
-colgantes, remera de colaboradores y artículos promocionales (MSA), bolsas, 
+Gracias a la colaboración de diferentes sponsors pudimos ofrecer cintas
+colgantes, remera de colaboradores y artículos promocionales (MSA), bolsas,
 carpetas y lapiceras (Dattatec), y cubrir en parte la fiesta de cierre
-(Onapsis), sin olvidar la colaboración de la Urban Station, US21 y Educación IT 
+(Onapsis), sin olvidar la colaboración de la Urban Station, US21 y Educación IT
 por ofrecer sus instalaciones y comodidades como sede secundarias del evento.
 
 
@@ -189,7 +190,9 @@ Si bien no tenemos números exactos de años anteriores,
 aproximadamente el presupuesto se incremento alrededor en 3 veces desde 2009
 y el doble respecto de 2011 (sin ajustar el aumento de costos).
 
-Son montos importantes pero estamos lejos de las posibilidades de una
+El presupuesto estimado (al momento de redacción de este documento 30/nov/2012)
+fue de $100.000 ARS,
+es un monto importante pero estamos lejos de las posibilidades de una
 conferencia internacional como
 DebConf (http://media.debconf.org/dc8/report/DebConf8_FinalReport_l.pdf)
 o MozCamp (https://wiki.mozilla.org/MozCampLATAM2012),
