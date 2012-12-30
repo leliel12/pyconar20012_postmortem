@@ -50,7 +50,7 @@ copyright = u'2012, PyAr'
 # The short X.Y version.
 PATH = os.path.abspath(os.path.dirname(__file__))
 VERSION_TXT = os.path.join(PATH, "version.txt")
-STATUS = "rc"
+STATUS = ""
 with open(VERSION_TXT) as fp:
     version = fp.read().strip() + STATUS
 

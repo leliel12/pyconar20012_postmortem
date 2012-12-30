@@ -80,7 +80,8 @@ El número de versión de este documento se compone de:
 
     <YEAR>.<MONTH>.<DAY>.<HOUR><MINUTES><STATUS>
 
-Siendo ``STATUS`` si el documento esta en alfa, beta o final. La hora y los
+Siendo ``STATUS`` alfa, beta o no hay status en el
+caso de que el documento ya sea una version final. La hora y los
 minutos se establecen con un mercurial hook justo antes de iniciar el push.
 
 
