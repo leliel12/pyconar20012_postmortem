@@ -12,7 +12,8 @@ La descordinación y la falta de estructura que presenta PyAr,
 impacta bastante en lo que conlleva una conferencia.
 (Esto es a modo de autocrítica en la que nos incluimos este
 año como responsables principales por no haber podido lograr una
-organización de la conferencia más fluida).
+organización de la conferencia más fluida: las responsabilidades se volvieron
+difusas y la toma de decisiones fue complicada).
 
 A pesar de que en esta edición tratamos de documentar todas las normas y
 procedimientos de manera pública y abierta, desde la propuesta de sede, llamado
