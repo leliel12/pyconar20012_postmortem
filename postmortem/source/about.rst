@@ -150,6 +150,29 @@ evento colaborando con la organización:
 - **Infraestructura y Redes:** Universidad Nacional de Quilmes
 
 
+Compilar este documento
+-----------------------
+
+- Instalar todas las dependencias de Sphinx y latexpdf (http://sphinx-doc.org/)
+- Configurar un hook en ``.hg/hgrc`` como el siguiente:
+
+
+.. code-block:: cfg
+
+    [paths]
+    default = https://@bitbucket.org/leliel12/pyconar20012_postmortem
+
+    [hooks]
+    pre-push = python postmortem/prepush.py
+
+
+- Para compilar en la carpeta ``postmortem``
+
+.. code-block:: console
+
+    $ make latexpdf html
+
+
 .. only:: latex
 
     Made with `Sphinx <http://sphinx-doc.org/>`_!

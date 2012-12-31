@@ -16,6 +16,7 @@ import os
 import shutil
 import datetime
 
+
 #===============================================================================
 # CONSTANTS
 #===============================================================================
@@ -24,13 +25,18 @@ PATH = os.path.abspath(os.path.dirname(__file__))
 
 SOURCE = os.path.join(PATH, "source")
 
+ROOT = os.path.join(PATH, "..", "README.rst")
+
 VERSION_TXT = os.path.join(SOURCE, "version.txt")
+
+ABOUT_RST = os.path.join(SOURCE, "about.rst")
 
 PDF = os.path.join(PATH, "build", "latex", "PyConArgentina2012-PostMortem.pdf")
 
 TO = os.path.join(SOURCE, "_static")
 
 MAKE = "make.bat {}" if os.name == "nt" else "make {}"
+
 
 #===============================================================================
 # LOGIC
@@ -39,7 +45,7 @@ MAKE = "make.bat {}" if os.name == "nt" else "make {}"
 now = datetime.datetime.now()
 ver = now.strftime("%y.%m.%d.%H%M")
 
-print("frozen version")
+print(">>> Frozen version")
 with open(VERSION_TXT, "w") as fp:
     fp.write(ver)
 
@@ -56,8 +62,10 @@ ex(MAKE.format("latexpdf"))
 shutil.copy(PDF, TO)
 print(">> Copied '{}' -> '{}'".format(PDF, TO))
 
-ex("hg add {}".format(TO))
-ex('hg commit -m "add pdf at {}" -u prepush.py'.format(now))
-ex('hg tag {} -u prepush.py'.format(ver))
+shutil.copy(ABOUT_RST, ROOT)
 
+ex("hg add {}/*.pdf".format(TO))
+ex("hg add {}/*.pdf".format(ROOT))
+#ex('hg commit -m "add pdf at {}" -u prepush.py'.format(now))
+ex('hg tag {} -u prepush.py'.format(ver))
 
