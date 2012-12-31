@@ -155,6 +155,7 @@ Compilar este documento
 -----------------------
 
 - Instalar todas las dependencias de Sphinx y latexpdf (http://sphinx-doc.org/)
+- Descargar el código fuente del documento desde https://bitbucket.org/leliel12/pyconar20012_postmortem
 - Configurar un hook en ``.hg/hgrc`` como el siguiente:
 
 
