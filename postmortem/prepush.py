@@ -64,8 +64,8 @@ print(">> Copied '{}' -> '{}'".format(PDF, TO))
 
 shutil.copy(ABOUT_RST, ROOT)
 
-ex("hg add {}/*.pdf".format(TO))
-ex("hg add {}/*.pdf".format(ROOT))
+ex("hg add {}".format(os.path.join(TO, "*.pdf")))
+ex("hg add {}".format(ROOT))
 #ex('hg commit -m "add pdf at {}" -u prepush.py'.format(now))
 ex('hg tag {} -u prepush.py'.format(ver))
 
