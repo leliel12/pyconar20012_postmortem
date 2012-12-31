@@ -17,6 +17,7 @@ Licencia
 Referencias
 -----------
 
+- Este documento: https://pyconar20012-postmortem.readthedocs.org
 - Fuentes de este documento: https://bitbucket.org/leliel12/pyconar20012_postmortem
 - Pagina web del evento: http://ar.pycon.org/2012
 - PyAr: http://pyar.org.ar
@@ -157,7 +158,7 @@ Compilar este documento
 - Configurar un hook en ``.hg/hgrc`` como el siguiente:
 
 
-.. code-block:: cfg
+::
 
     [paths]
     default = https://@bitbucket.org/leliel12/pyconar20012_postmortem
@@ -168,7 +169,7 @@ Compilar este documento
 
 - Para compilar en la carpeta ``postmortem``
 
-.. code-block:: console
+::
 
     $ make latexpdf html
 
