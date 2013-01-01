@@ -154,24 +154,25 @@ evento colaborando con la organización:
 Compilar este documento
 -----------------------
 
+- Instalar Mercurial http://mercurial.selenic.com
 - Instalar todas las dependencias de Sphinx y latexpdf (http://sphinx-doc.org/)
 - Descargar el código fuente del documento desde https://bitbucket.org/leliel12/pyconar20012_postmortem
 - Configurar un hook en ``.hg/hgrc`` como el siguiente:
 
-::
+  .. code-block:: python
 
-    [paths]
-    default = https://bitbucket.org/leliel12/pyconar20012_postmortem
+        [paths]
+        default = https://bitbucket.org/leliel12/pyconar20012_postmortem
 
-    [hooks]
-    pre-push = python postmortem/prepush.py
+        [hooks]
+        pre-push = python postmortem/prepush.py
 
 
 - Para compilar en la carpeta ``postmortem``
 
-::
+  .. code-block:: console
 
-    $ make latexpdf html
+        $ make latexpdf html
 
 
 .. only:: latex
