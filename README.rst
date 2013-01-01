@@ -147,7 +147,7 @@ evento colaborando con la organización:
 - **Filmación:**
     - Universidad Nacional de Quilmes
     - Posta Productora Audiovisual
-    - Pablo M. Mana <pablo.m.mana AT gmail DOT com>
+    - Pablo M. Mana <pablo DOT m DOT mana AT gmail DOT com>
 - **Infraestructura y Redes:** Universidad Nacional de Quilmes
 
 
