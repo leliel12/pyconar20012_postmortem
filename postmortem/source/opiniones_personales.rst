@@ -59,3 +59,29 @@ that could be improved possibly:
       unclear if they were there for the conference.
     - More power cables, running extra extension cords and surge protectors in
       the talk rooms would be awesome.
+
+
+Brett Cannon
+------------
+
+:homepage: http://www.drbrett.ca/
+:twitter: `@brettsky <https://twitter.com/brettsky>`_
+
+.. image:: opiniones_personales/brett.jpg
+    :align: center
+
+This is obviously from a skewed perspective of an invited speaker who barely
+speaks Spanish, but here it goes:
+
+**The Good:** Everyone was very friendly! The conference was not overwhelming in
+terms of size (reminded me of the early PyCon US where you could actually find
+people who wanted to find easily). Sprinting was a good size and group of
+people.
+
+**The Bad:** Not enough seating with power for working on a laptop when there
+wasn't a talk I wan't to attend. Not enough talks in English
+(as I said, skewed =). Would have been great to have a list of good tourist
+attractions to see that were near the hotel (e.g. museums, art galleries, etc.
+that were within reasonable walking distance). A map of places to eat near the
+conference since lunch was not provided and it was not in a major part of the
+city where there were an obvious bunch of places to eat.
