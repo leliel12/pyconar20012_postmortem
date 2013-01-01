@@ -56,13 +56,13 @@ Objetivos cumplidos
       balance final.
     - La realización de este post-mortem exhaustivo es uno de los objetivos
       planteados.
-    - Se corroboro que un numero importante de personas esta dispuesto a 
+    - Se corroboro que un numero importante de personas esta dispuesto a
       contribuir económicamente con una conferencia de este tipo.
     - Se aprovecho al máximo la presencia de invitados internacionales ya que
       cada uno de ellos dio como mínimo 2 charlas y un tutorial.
     - Se pudo dejar un sobrante importante de dinero para la edición 2013 de
       PyCon Argentina.
-    - Se conformo una comunida de Sci-PyAr de ciencias.
+    - Se conformo una comunidad científica Sci-PyAr.
     - Toda decisión en primera medida se daba a evaluación de la comunidad
       luego de eso recién se tomaba una decisión interna.
     - Se dio mas participacion en PyConAr a las empresas, las cuales siempre
@@ -76,7 +76,7 @@ Objetivos Incumplidos
       pudo hacer la sesión debidamente.
     - No se supero la histórica barrera del 60 % de asistentes con respecto a
       la cantidad de inscriptos a eventos gratuitos de software libre.
-    - No se pudo coordinar completamente speakers internacionales con los otros 
+    - No se pudo coordinar completamente speakers internacionales con los otros
       eventos latinoamericanos.
     - La applicacion de Android (http://guidebook.com/) fue un fracaso, porque
       fue aprobada después que empezó el evento y no hubo tiempo para
