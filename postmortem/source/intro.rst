@@ -2,16 +2,16 @@
 Palabras del Coordinador General
 ================================
 
-Tienen ante ustedes un exaustivo documento resultado del analisis de lo
+Tienen ante ustedes un exahustivo documento resultado del analisis de lo
 realizado para lograr la conferencia PyCon Argentina 2012.
 
 Aprovecho estas líneas para reconocer el esfuerzo realizado por
 todos los colaboradores, auspiciantes y participantes, sin los cuales la
-conferencia no hubiera podido realizarse. Quiero dar las gracias a la 
+conferencia no hubiera podido realizarse. Quiero dar las gracias a la
 comunidad en general por habernos dando la oportunidad de coordinar el evento
-este año, y más alla de las diferencias, creo que fue positivo que haya 
-distintos puntos de vista y se hallan discutido temas que sirvan para 
-reflexionar, generar críticas constructivas a futuro y, en definitiva, hacer 
+este año, y más alla de las diferencias, creo que fue positivo que haya
+distintos puntos de vista y se hallan discutido temas que sirvan para
+reflexionar, generar críticas constructivas a futuro y, en definitiva, hacer
 crecer a nuestra comunidad en todos los aspectos.
 
 Esperando que  las lecciones aprendidas sean de utilidad y que las dificultades
