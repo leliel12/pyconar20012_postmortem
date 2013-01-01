@@ -158,11 +158,10 @@ Compilar este documento
 - Descargar el código fuente del documento desde https://bitbucket.org/leliel12/pyconar20012_postmortem
 - Configurar un hook en ``.hg/hgrc`` como el siguiente:
 
-
 ::
 
     [paths]
-    default = https://@bitbucket.org/leliel12/pyconar20012_postmortem
+    default = https://bitbucket.org/leliel12/pyconar20012_postmortem
 
     [hooks]
     pre-push = python postmortem/prepush.py
