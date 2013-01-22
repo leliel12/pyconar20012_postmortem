@@ -103,7 +103,7 @@ En esta etapa los principales aspectos fueron:
         :scale: 25 %
         :align: center
 
-        Regalos para disertantes almacenados desde jun/2012 hasta nov/210
+        Regalos para disertantes almacenados desde jun/2012 hasta nov/2012
 
 .. only:: latex
 
@@ -111,7 +111,7 @@ En esta etapa los principales aspectos fueron:
         :scale: 75 %
         :align: center
 
-        Regalos para disertantes almacenados desde jun/2012 hasta nov/210
+        Regalos para disertantes almacenados desde jun/2012 hasta nov/2012
 
 
 :Lo Bueno: Fue la anticipación de gastos para combatir la inflación, y la
