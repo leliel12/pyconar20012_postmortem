@@ -1,0 +1,5 @@
+Este documento tiene sha256 codes de diferentes versiones del balance por casos
+de fraudes.
+
+pyconar2012_balance_rc1.pdf
+    da0d74aa4203fd698817a9e6d825ddaf96855df5634268bc49ce0157a6b94202
