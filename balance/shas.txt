@@ -3,3 +3,6 @@ de fraudes.
 
 pyconar2012_balance_rc1.pdf
     da0d74aa4203fd698817a9e6d825ddaf96855df5634268bc49ce0157a6b94202
+
+balancepyconar2012.pdf
+    d6cc38315a006183d30d658f50c7fe1e5ac7ee81c089fc5ce80d42ba60ba2d5e
