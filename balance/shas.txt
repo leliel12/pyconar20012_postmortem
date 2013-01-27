@@ -6,3 +6,7 @@ pyconar2012_balance_rc1.pdf
 
 balancepyconar2012.pdf
     d6cc38315a006183d30d658f50c7fe1e5ac7ee81c089fc5ce80d42ba60ba2d5e
+
+fact_y_com.zip
+    eed38e76ea3122f6e40db9c93a6be501dc47da5e758f660431dfb0f0b337b22c
+
