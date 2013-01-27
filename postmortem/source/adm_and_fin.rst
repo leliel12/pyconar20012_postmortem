@@ -135,7 +135,7 @@ Las medidas correctivas propuesta para tratar de subsanar lo malo consiste en:
     - Brindar a los siguiente organizadores la base de datos de sponsor e
       información de contacto  obtenidas en esta edición.
     - Se confeccionará un balance general final de la conferencia que tenga el
-      desglose de los gastos.
+      desglose de los gastos. (Ver más Abajo)
     - Se dejará un excedente de fondos detallados pertinentemente en el balance
       para subsanar los problemas en cuanto kick-off de la siguiente edición.
 
@@ -199,3 +199,11 @@ o MozCamp (https://wiki.mozilla.org/MozCampLATAM2012),
 que realizadas en el país
 para una duración y cantidad similar de asistentes, sus presupuestos oscilan
 alrededor de 200.000 USD.
+
+
+Balance
+-------
+
+* **Link para descargar el balance:**
+    https://bitbucket.org/leliel12/pyconar20012_postmortem/src/tip/balance/balancepyconar2012.pdf
+* **sha256:** ``d6cc38315a006183d30d658f50c7fe1e5ac7ee81c089fc5ce80d42ba60ba2d5e``
