@@ -228,10 +228,10 @@ Sobre el excedente de $21.126,89.
 Dos temas importantes no están contemplados en el balance porque
 quedan por decidir que hacer, son:
 
-    - $3000.- Premios pendientes (concurso estudiantil: becas para
-      pycamp/pycon/pydays/etc):
-    - $4598.- Impresión de Tutoriales (200 libros 58 páginas en b/n, tapa
-      fullcolor, acaballado):
+- $3000.- Premios pendientes (concurso estudiantil: becas para
+  pycamp/pycon/pydays/etc):
+- $4598.- Impresión de Tutoriales (200 libros 58 páginas en b/n, tapa
+  fullcolor, acaballado):
 
 Considerando esto, el saldo "real" para PyCon Argentina 2013 sería
 aprox. de: $13.528.
@@ -245,12 +245,12 @@ Otros gastos que no se realizaron por diversos motivos
 (principalmente, por no tener algunos fondo acreditados en el momento
 necesario) fueron:
 
-$1500 : Fotografía (3 jornadas)
-$4800 : Cómbi para el público (45 pax, viernes y sábado)
-$6000 : Campaña de publicidad (revistas, diarios, redes sociales, etc.)
-$6000 : Streaming (aprox)
-$12200 : Post-producción de los videos (edición, compaginación con
-slides, mejoras, etc.)
+- $1500 : Fotografía (3 jornadas)
+- $4800 : Cómbi para el público (45 pax, viernes y sábado)
+- $6000 : Campaña de publicidad (revistas, diarios, redes sociales, etc.)
+- $6000 : Streaming (aprox)
+- $12200 : Post-producción de los videos (edición, compaginación con
+  slides, mejoras, etc.)
 
 Que quede registro para próximas ediciones.
 
