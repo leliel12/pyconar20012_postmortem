@@ -204,6 +204,18 @@ alrededor de 200.000 USD.
 Balance
 -------
 
-* **Link para descargar el balance:**
-    https://bitbucket.org/leliel12/pyconar20012_postmortem/src/tip/balance/balancepyconar2012.pdf
-* **sha256:** ``d6cc38315a006183d30d658f50c7fe1e5ac7ee81c089fc5ce80d42ba60ba2d5e``
+**Link al balance:**
+
+    http://bitbucket.org/leliel12/pyconar20012_postmortem/src/tip/balance/balancepyconar2012.pdf
+
+    sha256: ``d6cc38315a006183d30d658f50c7fe1e5ac7ee81c089fc5ce80d42ba60ba2d5e``
+
+También esta disponible aquí
+
+    http://bitbucket.org/leliel12/pyconar20012_postmortem/src/tip/balance/fact_y_com.zip
+
+    sha256: ``eed38e76ea3122f6e40db9c93a6be501dc47da5e758f660431dfb0f0b337b22c``
+
+un archivo ``zip`` con casi el total de las facturas y muchísimas notas de
+índole económico, administrativo y financiero de la conferencia.
+
