@@ -160,7 +160,7 @@ Compilar este documento
 
   ::
 
-    $ hg clone https://leliel12@bitbucket.org/leliel12/pyconar20012_postmortem
+    $ hg clone https://bitbucket.org/leliel12/pyconar20012_postmortem
 
 
 - Configurar un hook en ``.hg/hgrc`` como el siguiente:
